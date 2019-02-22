@@ -8,9 +8,7 @@ date: 2013-06-06
 location: "Beijing, China"
 ---
 
-**Student Member** participating in the subproject "*Vehicle-to-Vehicle (V2V) and Vehicle-to-Infrastructure (V2I) Information Interaction and Cooperative Control Technologies*"
-
-Collaborated with the connected vehicles group of the CVIS&SC Lab to develop DSRC-based broadcasting functional modules for reliable and effective support of V2V and V2I communications as well as to carry out simulation-based and field-based tests on a prototype of vehicular communication terminal.
+**Student Member** participating in the subproject "*Vehicle-to-Vehicle (V2V) and Vehicle-to-Infrastructure (V2I) Information Interaction and Cooperative Control Technologies*", collaborated with the connected vehicles group of the CVIS&SC Lab to develop DSRC-based broadcasting functional modules for reliable and effective support of V2V and V2I communications as well as to carry out simulation-based and field-based tests on a prototype of vehicular communication terminal.
 
 Heading 1
 ======

@@ -11,7 +11,7 @@ redirect_from:
 
 Jan 2016 - present
 --------
-**Ph.D** student, *Traffic Information Engineering \& Control*
+**Ph.D** student, *Traffic Information Engineering & Control*
 
 [School of Transportation Science and Engineering][sch], [Beihang University][buaa], Beijing, China
 
@@ -43,7 +43,7 @@ Sep 2017 - Sep 2018
 
 Sep 2013 - Jan 2016
 ------
-**M.Sc.** with Distinction, *Traffic Information Engineering \& Control*
+**M.Sc.** with Distinction, *Traffic Information Engineering & Control*
 
 [School of Transportation Science and Engineering][sch], [Beihang University][buaa], Beijing, China
 

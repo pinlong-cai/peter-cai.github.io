@@ -1,3 +1,4 @@
+---
 permalink: /education/
 title: "My Education"
 author_profile: true

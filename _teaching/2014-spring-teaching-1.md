@@ -10,7 +10,7 @@ location: "Beijing, China"
 
 **Student Member** participating in the subproject "*Vehicle-to-Vehicle (V2V) and Vehicle-to-Infrastructure (V2I) Information Interaction and Cooperative Control Technologies*", collaborated with the connected vehicles group of the CVIS&SC Lab to develop DSRC-based broadcasting functional modules for reliable and effective support of V2V and V2I communications as well as to carry out simulation-based and field-based tests on a prototype of vehicular communication terminal.
 
-Detailed contributions includes:
+Detailed contributions include:
 
 + Identified requirements and challenging problems in vehicular broadcasting networks, and established simulation experiments in representative traffic situations (e.g., highways and urban road networks) with different vehicle densities to determine fundamental performance limits of the DSRC-based vehicular broadcasting mechanism.
 + Developed the software modules of the upper-layer multi-thread message scheduling, the message parsing/encapsulation interfaces and the IO multiplexing model between the application and the MAC layers for support of DSRC-based vehicular broadcasting applications.

@@ -30,7 +30,7 @@ Jan 2016 - present
 
 [School of Transportation Science and Engineering][sch], [Beihang University][buaa], Beijing, China
 
-+ Thesis Topic: Advanced Vehicular Networking and Communications
++ Thesis Topic: Cooperative Vehicular Networking, Communications and Computing
 + Advisor: Professor [Yunpeng Wang][wyp] and Professor [Daxin Tian][tdx]
 + Full Scholarship Funded by China goverment and Beihang University
 
@@ -46,7 +46,7 @@ Sep 2017 - Sep 2018
 
 [Department of Engineering and Design][dep], [University of Sussex][sussex], Brighton, United Kingdom
 
-+ Research Area: Cooperative Vehicle-Infrastructure Systems and Connected Vehicles
++ Research Topic: Advanced Vehicular Networking and Communications
 + Supervisor: Doctor [Zhengguo Sheng][szg]
 + Awarded the Joint PhD Training Program Fellowship by the China Scholarship Council (CSC)
 

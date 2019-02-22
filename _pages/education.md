@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+I have received the bachelor degree from Beihang University in 2013. After finishing the undergraduate courses, I was selected as one of the top students who can be exempt from the admission test to successively pursue the master and the doctoral degrees at Beihang University.
+
 Jan 2016 - present
 --------
 **Ph.D** student, *Traffic Information Engineering & Control*

@@ -60,7 +60,7 @@ School of Transportation Science and Engineering, Beihang University, Beijing, C
 + Supervisor: Professor [Daxin Tian][tdx]
 + Awarded the Outstanding Bachelor\'s Thesis of Beihang University
 + Academic Ranking: NO.8 out of 154 students; Major GPA: 90.9/100
-+ Main Courses taken: Advanced Mathematics, Probability Thoery and Statistics, Electronic Engineering and Electronics, Operations Research, Computer Network, Image Processing, Single Chip Computer Theory and System Design, Automatic Transmission Technology, etc.
++ Main Courses taken: Advanced Mathematics, Probability Thoery and Statistics, Intelligent Transportation Systems, Traffic Management and Control, Electronic Engineering and Electronics, Operations Research, Computer Network, Image Processing, Single Chip Computer Theory and System Design, Automatic Transmission Technology, etc.
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: "[Jun 2014 - Dec 2014] A Novel Optimization and Control Method for Vehicle-Infrastructure-Integrated System Based on Swarm Intelligence (Grant No. 61103098)"
+title: "[Jun 2013 - Dec 2014] A Novel Optimization and Control Method for Vehicle-Infrastructure-Integrated System Based on Swarm Intelligence (Grant No. 61103098)"
 collection: teaching
 type: "The National Natural Science Foundation of China (NSFC), Youth Fund Project"
 permalink: /teaching/project-NSFC-01
@@ -12,6 +12,6 @@ location: "Beijing, China"
 
 Detailed contributions include:
 
-+ Developed an optimal beaconing control model as well as its algorithm for adaptive vehicular broadcasting networks, and conducted simulation-based experiments to investigate the performance of vehicular broadcasting under the beaconing control.
-+ Developed a vehicle collision avoidance algorithm based on dynamic evluation of inter-vehicle distance as well as its prototype module in an Android OS-based vehicular terminal to support the vehicular safety forwarning based on vehicular communications.
-+ Proposed a dynamic travel time prediction framework based on the autoregressive neural network model as well as a vehicle route guidance method by combining the travel time prediction with the dynamic programming and the Dijkstra-Yen $$k$$-shortest algorithm.
++ Developed a stochastic model of chain collision of a heterogeneous vehicle platoon with consideration of car-following dynamics and partial inter-vehicle communication penetration to support simulation-based analysis on the comprehensive safety of the platoon.
++ Applied neural computing principle and fuzzy decision-making technique to realize an adaptive control of a traffic intersection, and developed the algorithm prototype as well as a joint simulation platform based on the integration of VISSIM and MATLAB engine.
++ Proposed a topology generation scheme for traffic evacuation based on the Dijkstra-Yen $$k$$-shortest algorithm and a particle swarm optimization-based algorithm for realizing the traffic assignment on the evacuation network.

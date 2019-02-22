@@ -1,11 +1,11 @@
 ---
-permalink: /non-menu-page/
-title: "Page not in menu"
-excerpt: "This is a page not in th emain menu"
+permalink: /education/
+title: "Education"
+excerpt: "Education"
 author_profile: true
 redirect_from: 
-  - "/nmp/"
-  - "/nmp.html"
+  - "/education/"
+  - "/education.html"
 ---
 
 This is a page not in the menu. You can use markdown in this page.

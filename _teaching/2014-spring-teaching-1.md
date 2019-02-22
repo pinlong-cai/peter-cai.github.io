@@ -1,5 +1,5 @@
 ---
-title: "Key Technologies for Intelligent Cooperative Vehicle-Infrastructure Systems"
+title: "[Jun 2013 - Dec 2013] Key Technologies for Intelligent Cooperative Vehicle-Infrastructure Systems"
 collection: teaching
 type: "The National High Technology Research and Development Program of China (863 Program)"
 permalink: /teaching/2014-spring-teaching-1

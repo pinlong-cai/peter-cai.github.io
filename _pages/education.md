@@ -11,8 +11,21 @@ redirect_from:
 
 I have received the bachelor degree from Beihang University in 2013. After finishing the undergraduate courses, I was selected as one of the top students who can be exempt from the admission test to successively pursue the master and the doctoral degrees at Beihang University.
 
-Jan 2016 - present
+I was the Chief in charge of the graduate academic department as well as Vice executive chairman of the student union of School of Transportation Science and Engineering in Beihang University from 2013 up to 2014, and the subject representative of Advanced Mathematics, Probability and Statistics Theory, and Linear Algebra classes from 2009 to 2013.
+
+Language Ability
 --------
+Received 569/710 in College English Test Band 4 (CET4), 582/710 in College English Test Band 6 (CET6), and overall score 6.5/9 in IELTS.
+
+Computer Skills
+--------
++ Programming languages including **MATLAB**, **Python**, **C/C++** and **Java**.
++ Office Suites including **Microsoft Offices**, **Latex word processor**.
++ Modeling and Simulation softwares including **Veins**, **OMNeT++**, **Q-Paramics**, **VISSIM**, **SUMO**, **CarSim**, **Simulink**, etc.
+
+
+Jan 2016 - present
+======
 **Ph.D** student, *Traffic Information Engineering & Control*
 
 [School of Transportation Science and Engineering][sch], [Beihang University][buaa], Beijing, China
@@ -28,7 +41,7 @@ Jan 2016 - present
 
 
 Sep 2017 - Sep 2018
-------
+======
 **Visiting Ph.D student**, *Advanced Networks and Communications*
 
 [Department of Engineering and Design][dep], [University of Sussex][sussex], Brighton, United Kingdom
@@ -44,7 +57,7 @@ Sep 2017 - Sep 2018
 
 
 Sep 2013 - Jan 2016
-------
+======
 **M.Sc.** with Distinction, *Traffic Information Engineering & Control*
 
 [School of Transportation Science and Engineering][sch], [Beihang University][buaa], Beijing, China
@@ -59,7 +72,7 @@ Sep 2013 - Jan 2016
 [szg]: http://www.sussex.ac.uk/profiles/355346
 
 Sep 2009 - Jun 2013
-------
+======
 **B.Sc.** with Distinction, *Traffic and Transportation Automobile Application Engineering*
 
 [School of Transportation Science and Engineering][sch], [Beihang University][buaa], Beijing, China

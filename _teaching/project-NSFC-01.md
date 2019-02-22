@@ -2,13 +2,13 @@
 title: "[Jun 2014 - Dec 2014] A Novel Optimization and Control Method for Vehicle-Infrastructure-Integrated System Based on Swarm Intelligence (Grant No. 61103098)"
 collection: teaching
 type: "The National Natural Science Foundation of China (NSFC), Youth Fund Project"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/project-NSFC-01
 venue: "CVIS&SC Lab, Beihang University"
 date: 2014-08-08
 location: "Beijing, China"
 ---
 
-**Student Member** participating in the establishment of the project proposal and collaborated with the connected vehicles group of the CVIS&SC Lab to develop mathematical models, algorithm prototypes and on-board functional modules for effective support of vehicular safety warning and the real-time dynamic route guidance with Internet of Vehicles.
+**Student Member** participating in the establishment of the project proposal and collaborated with the connected vehicles group of the CVIS&SC Lab to investigate the issues of vehicle platoon with mixed communication conditions, the adaptive signal control of an traffic intersection and the evacuation route planning and traffic assignment by theoretical modeling and simulations, and to develop optimization and decision-making schemes for these issues.
 
 Detailed contributions include:
 

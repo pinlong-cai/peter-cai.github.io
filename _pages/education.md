@@ -8,10 +8,17 @@ redirect_from:
   - "/education.html"
 ---
 
-This is a page not in the menu. You can use markdown in this page.
 
-Heading 1
-======
+Jan 2016 - present
+--------
+**Ph.D** student, *Traffic Information Engineering \& Control*
 
-Heading 2
-======
+School of Transportation Science and Engineering, Beihang University, Beijing, China
+
++ Thesis Topic: Advanced Vehicular Networking and Communications
++ Advisor: Professor Yunpeng Wang and Professor Daxin Tian
++ Full Scholarship Funded by China goverment and Beihang University
+
+
+
+

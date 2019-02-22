@@ -1,10 +1,9 @@
----
-layout: archive
-title: "Education"
 permalink: /education/
+title: "My Education"
 author_profile: true
-redirect_from:
-  - /resume
+redirect_from: 
+  - /md/
+  - /markdown.html
 ---
 
 {% include base_path %}

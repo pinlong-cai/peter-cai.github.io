@@ -8,6 +8,7 @@ redirect_from:
   - /education.html/
 ---
 
+{% include base_path %}
 
 Jan 2016 - present
 --------

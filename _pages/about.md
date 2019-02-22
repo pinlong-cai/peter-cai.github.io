@@ -19,9 +19,9 @@ Currently, I am a student member of *Beijing Key Laboratory for Cooperative Vehi
 
 Contact info 
 --------
-Address: No. 11 Student Apartment of Beihang University, Xueyuan Road No. 37, Haidian District, Beijing 100191, P. R. China 
+**Address**: No. 11 Student Apartment of Beihang University, No. 37 Xueyuan Road, Haidian District, Beijing 100191, P. R. China 
 
-Email: jianshanzhou@foxmail.com
+**Email**: jianshanzhou@foxmail.com
 
 
 

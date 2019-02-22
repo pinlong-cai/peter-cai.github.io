@@ -13,7 +13,7 @@ Jan 2016 - present
 --------
 **Ph.D** student, *Traffic Information Engineering \& Control*
 
-School of Transportation Science and Engineering, Beihang University, Beijing, China
+[School of Transportation Science and Engineering][sch], [Beihang University][buaa], Beijing, China
 
 + Thesis Topic: Advanced Vehicular Networking and Communications
 + Advisor: Professor [Yunpeng Wang][wyp] and Professor [Daxin Tian][tdx]
@@ -29,17 +29,23 @@ Sep 2017 - Sep 2018
 ------
 **Visiting Ph.D student**, *Advanced Networks and Communications*
 
-Department of Engineering and Design, University of Sussex, Brighton, United Kingdom
+[Department of Engineering and Design][dep], [University of Sussex][sussex], Brighton, United Kingdom
 
 + Research Area: Cooperative Vehicle-Infrastructure Systems and Connected Vehicles
 + Supervisor: Doctor [Zhengguo Sheng][szg]
 + Awarded the Joint PhD Training Program Fellowship by the China Scholarship Council (CSC)
 
+
+[dep]: http://www.sussex.ac.uk/engineering/
+[sussex]: https://www.sussex.ac.uk/
+
+
+
 Sep 2013 - Jan 2016
 ------
 **M.Sc.** with Distinction, *Traffic Information Engineering \& Control*
 
-School of Transportation Science and Engineering, Beihang University, Beijing, China
+[School of Transportation Science and Engineering][sch], [Beihang University][buaa], Beijing, China
 
 + Thesis Topic: A Research on Bio-inspired Vertical Handoff Method for Heterogeneous Vehicular Telematics
 + Supervisor: Professor [Daxin Tian][tdx]
@@ -50,17 +56,20 @@ School of Transportation Science and Engineering, Beihang University, Beijing, C
 
 [szg]: http://www.sussex.ac.uk/profiles/355346
 
-Sep 2009 - Jun 2016
+Sep 2009 - Jun 2013
 ------
 **B.Sc.** with Distinction, *Traffic and Transportation Automobile Application Engineering*
 
-School of Transportation Science and Engineering, Beihang University, Beijing, China
+[School of Transportation Science and Engineering][sch], [Beihang University][buaa], Beijing, China
 
 + Thesis Topic: A Research on Dynamic Route Guidance Method with Real-Time Traffic Information
 + Supervisor: Professor [Daxin Tian][tdx]
 + Awarded the Outstanding Bachelor\'s Thesis of Beihang University
 + Academic Ranking: NO.8 out of 154 students; Major GPA: 90.9/100
 + Main Courses taken: Advanced Mathematics, Probability Thoery and Statistics, Intelligent Transportation Systems, Traffic Management and Control, Electronic Engineering and Electronics, Operations Research, Computer Network, Image Processing, Single Chip Computer Theory and System Design, Automatic Transmission Technology, etc.
+
+[buaa]: https://www.buaa.edu.cn/
+[sch]: http://transportation.buaa.edu.cn/
 
 
 

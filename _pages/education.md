@@ -18,7 +18,9 @@ School of Transportation Science and Engineering, Beihang University, Beijing, C
 + Thesis Topic: Advanced Vehicular Networking and Communications
 + Advisor: Professor [Yunpeng Wang][wyp] and Professor [Daxin Tian][tdx]
 + Full Scholarship Funded by China goverment and Beihang University
+
 [wyp]: https://www.buaa.edu.cn/info/1545/1743.htm
+
 [tdx]: http://transportation.buaa.edu.cn/info/1036/1100.htm
 
 

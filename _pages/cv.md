@@ -48,26 +48,26 @@ Journal Papers
  
 Conference Papers
 ------
-  <ul>{% for post in site.conferencepapers %}
+  <ul>{% for post in site.conferencepapers reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
  patents
 ------
-  <ul>{% for post in site.patents %}
+  <ul>{% for post in site.patents reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.talks reversed%}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Project Experience
 ======
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.teaching reversed%}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   

@@ -16,7 +16,7 @@ Journal Papers
 
 {% for post in site.publications reversed %}
   [{{ forloop.rindex }}]
-  {% include archive-single.html %}
+  {% include my-archive-single.html %}
 {% endfor %}
 
 Conference papers

@@ -1,5 +1,5 @@
-﻿---
-title: "A bayesian compressive sensing vehicular location method based on three-dimensional radio frequency"
+---
+title: "基于车联网的交通应急疏散优化方法"
 collection: journalpapers
 permalink: /journalpapers/2014-journal-paper-001
 excerpt: 'Authors: Wang, Y., Duan, X., Tian, D., <b>Zhou, J.</b>, Lu, Y., & Lu, G.'

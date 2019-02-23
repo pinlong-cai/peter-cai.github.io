@@ -5,7 +5,7 @@ permalink: /conferencepapers/2017-04-21-conference-paper-005
 excerpt: 'Authors: Tian, D., Dai, Z., Zheng, K., <b>Zhou, J.</b>, Duan, X., Guo, P., & Zhang, H.'
 date: 2017-04-21
 venue: 'International Conference on 5G for Future Wireless Networks (pp. 568-580). Springer, Cham.'
-paperurl: 'https://www.springerprofessional.de/en/reff-reliable-and-fast-forwarding-in-vehicular-ad-hoc-network/15337314'
+paperurl: 'https://link.springer.com/chapter/10.1007/978-3-319-72823-0_52'
 citation: 'Tian, D., Dai, Z., Zheng, K., <b>Zhou, J.</b>, Duan, X., Guo, P., & Zhang, H. (2017, April). REFF: REliable and Fast Forwarding in Vehicular Ad-hoc Network. In International Conference on 5G for Future Wireless Networks (pp. 568-580). Springer, Cham.'
 ---
 

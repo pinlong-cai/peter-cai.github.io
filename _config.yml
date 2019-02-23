@@ -230,7 +230,7 @@ defaults:
   # _journalpapers
   - scope:
       path: ""
-      type: publications
+      type: journalpapers
     values:
       layout: single
       author_profile: true

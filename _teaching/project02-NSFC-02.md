@@ -8,11 +8,11 @@ date: 2017-01-01
 location: "Beijing, China"
 ---
 
-**Project Leader** established the overall project proposal motivated by biological intelligence, proposed the research goal, approach and plan, and managed the research progress with respect to theoretical modeling, algorithm prototype and performance evaluation of a novel adaptive bio-inspired network selection method for Quality-of-Service (QoS)-support vehicular applications in heterogeneous wireless networks.
+**Key Student Member** established the overall project proposal motivated by micro-level biological intelligence, proposed the research goal and approach, and engaged in devising novel paradigms of networking and communication models, algorithms and protocols to deal with challenges in mobile ad hoc networks by looking at the microbiological characteristics as the source of inspiration, such as the cellular adaptability to varying environments, inherent robustness to failures and damages, self-organization, evolvability, etc.
 
 Detailed contributions include:
 
-+ Identified the adaptability and robustness in the response of cellular gene regulatory networks to dynamic and stochastic environmental conditions and motivated by the cellular adaptive behavior to propose a stochastic nonlinear dynamic system model, called extended attractor selection model (EASM), to describe the dynamics of attractor selection in the system state space.
-+ Mapped the problem of network selection and accessing in a heterogeneous environment to the decision-making problem of distributed agents who aim to maximize the utilization benefit and allocation fairness of heterogeneous network resources in a global sense.
-+ Developed an adaptive network selection framework based on the bio-inspired attractor selection model, implemented the bio-inspired decision-making algorithm and conducted extensive simulations to validate the effectiveness and advantages of the proposed method.
++ Developed a non-cooperative game-theoretic framework for energy-efficient and reliable cooperative networking and communications, and proposed a relay selection decision-making algorithm based on stochastic learning approach for achieving the Nash equilibrium performance of the cooperative network.
++ Proposed an adaptive beacon control scheme by combining the reinforcement learning theory and the epidemic routing protocol to enhance the performance of vehicular ad hoc networks in terms of both the reliability and the resource conservation.
++ Developed an adaptive probabilistic infection and an adaptive limited-time forwarding mechanisms for epidemic broadcasting in vehicular ad hoc networks, and proposed an adaptive vehicular epidemic routing method by combining the epidemic mechanism with the attractor selection model to achieve a good trade-off between reachability and efficiency of message dissemination.
 

@@ -1,5 +1,5 @@
 ---
-title: "[Jun 2013 - Dec 2014] A Novel Optimization and Control Method for Vehicle-Infrastructure-Integrated System Based on Swarm Intelligence (Grant No. 61103098)"
+title: "[Jan 2012 - Dec 2014] A Novel Optimization and Control Method for Vehicle-Infrastructure-Integrated System Based on Swarm Intelligence (Grant No. 61103098)"
 collection: teaching
 type: "The National Natural Science Foundation of China (NSFC), Youth Fund Project"
 permalink: /teaching/project-NSFC-01

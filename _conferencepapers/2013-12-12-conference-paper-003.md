@@ -1,5 +1,5 @@
 ---
-title: "Real-time vehicle route guidance based on connected vehicles"
+title: " A Self-Adaptive V2V Communication System with DSRC"
 collection: conferencepapers
 permalink: /conferencepapers/2013-12-12-conference-paper-003
 excerpt: 'Authors: Tian, D., Luo, H., <b>Zhou, J.</b>, Wang, Y., Yu, G., & Xia, H.'

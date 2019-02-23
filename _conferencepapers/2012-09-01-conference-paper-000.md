@@ -4,7 +4,7 @@ collection: conferencepapers
 permalink: /conferencepapers/2012-09-01-conference-paper-000
 excerpt: 'Authors: <b>周建山</b>, 田大新, 韩旭, & 王云鹏'
 date: 2012-09-01
-venue: '交通运输系统工程与信息, 2012, 12(s1): 38-44.'
+venue: '第七届中国智能交通年会优秀论文集——智能交通技术, 48-59'
 paperurl: 'http://xueshu.baidu.com/s?wd=paperuri%3A%287f525afb44296472ca69ff5e5fdb14bf%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fcpfd.cnki.com.cn%2FArticle%2FCPFDTOTAL-ZJTX201209001010.htm&ie=utf-8&sc_us=11956824495512165669'
 citation: '<b>周建山</b>, 周建山, 田大新, 韩旭, & 王云鹏. (2012). 基于车路协同的单点信号交叉口自适应优化控制方法. 第七届中国智能交通年会优秀论文集——智能交通技术, 48-59'
 ---

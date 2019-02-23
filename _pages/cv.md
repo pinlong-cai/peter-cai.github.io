@@ -18,10 +18,10 @@ redirect_from:
 
 # <a name="Education"></a>Education
 
-* [Jan 2016-present]: Ph.D student, *Traffic Information Engineering & Control*, Beihang University
-* [Sep 2017-Sep 2018]: Visiting Ph.D student, *Advanced Networks and Communications*, University of Sussex
-* [Sep 2013-Jan 2016]: M.Sc., Traffic Information Engineering & Control, Beihang University
-* [Sep 2009-Jun 2013]: B.Sc., Traffic and Transportation Automobile Application Engineering, Beihang University
+* [Jan 2016-present] **Ph.D student**, *Traffic Information Engineering & Control*, Beihang University
+* [Sep 2017-Sep 2018] **Visiting Ph.D student**, *Advanced Networks and Communications*, University of Sussex
+* [Sep 2013-Jan 2016] **M.Sc.**, *Traffic Information Engineering & Control*, Beihang University
+* [Sep 2009-Jun 2013] **B.Sc.**, *Traffic and Transportation Automobile Application Engineering*, Beihang University
   
 
 # <a name="ProjectExperience"></a>Project Experience

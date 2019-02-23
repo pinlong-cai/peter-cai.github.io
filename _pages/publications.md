@@ -11,6 +11,15 @@ author_profile: true
 
 {% include base_path %}
 
+{% for post in site.journalpapers reversed %}
+  <p>{{ forloop.length }} co-authored journal papers have been published/accepted.</p>
+{% endfor %}
+
+{% for post in site.conferencepapers reversed %}
+  <p>{{ forloop.length }} co-authored conference papers have been published/accepted.</p>
+{% endfor %}
+
+
 Journal Papers
 -----------
 

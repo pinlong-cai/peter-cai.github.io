@@ -1,8 +1,8 @@
 ---
-title: "[Jun 2013 - Jun 2015] Microbiology-inspired Key technologies for Mobile Ad Hoc Networks (Grant No. 61672082)"
+title: "[Jan 2017 - Dec 2020] Microbiology-inspired Key technologies for Mobile Ad Hoc Networks (Grant No. 61672082)"
 collection: teaching
 type: "The Beihang University Innovation & Practice Fund for Graduate"
-permalink: /teaching/project-YCSJ-01
+permalink: /teaching/project-NSFC-02
 venue: "CVIS&SC Lab, Beihang University"
 date: 2015-06-06
 location: "Beijing, China"

@@ -15,7 +15,7 @@ Journal Papers
 -----------
 
 {% for post in site.publications reversed %}
-  {{ forloop.rindex }}
+  [{{ forloop.rindex }}]
   {% include archive-single.html %}
 {% endfor %}
 

@@ -1,5 +1,5 @@
 ---
-title: "Self-organized Relay Selection for Cooperative Transmission in Vehicular Ad-hoc Networks"
+title: "Self-organized relay selection for cooperative transmission in vehicular ad-hoc networks"
 collection: journalpapers
 permalink: /journalpapers/2017-06-15-journal-paper-013
 excerpt: 'Authors: Tian, D., <b>Zhou, J.</b>, Sheng, Z., Chen, M., Ni, Q., & Leung, V. C. M.'

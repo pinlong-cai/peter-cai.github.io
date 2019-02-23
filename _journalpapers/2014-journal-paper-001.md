@@ -1,4 +1,4 @@
-﻿---
+---
 title: "A bayesian compressive sensing vehicular location method based on three-dimensional radio frequency"
 collection: journalpapers
 permalink: /journalpapers/2014-journal-paper-001

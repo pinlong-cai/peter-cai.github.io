@@ -1,5 +1,5 @@
 ---
-title: "[Jan 2017 - Dec 2020] Microbiology-inspired Key technologies for Mobile Ad Hoc Networks (Grant No. 61672082)"
+title: "[Jan 2017 - Dec 2020] Microbiology-inspired Key Technologies for Mobile Ad Hoc Networks (Grant No. 61672082)"
 collection: teaching
 type: "The National Natural Science Foundation of China (NSFC), General Fund Project"
 permalink: /teaching/project02-NSFC-02

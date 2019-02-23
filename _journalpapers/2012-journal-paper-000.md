@@ -1,4 +1,4 @@
-﻿---
+---
 title: "基于车路协同的匝道合流区行车安全控制系统"
 collection: journalpapers
 permalink: /journalpapers/2012-journal-paper-000

@@ -2,7 +2,7 @@
 title: "[Jan 2016 - Dec 2019] Fundamental Theories and Common Key Technologies for Intelligent Connected Vehicles (Grant No. U1564212)"
 collection: teaching
 type: "The National Natural Science Foundation of China (NSFC), Joint Fund Project of NSFC and China Automobile Industry"
-permalink: /teaching/project030-NSFC-03
+permalink: /teaching/project02-NSFC-02
 venue: "CVIS&SC Lab, Beihang University"
 date: 2016-01-01
 location: "Beijing, China"

@@ -4,7 +4,7 @@ collection: journalpapers
 permalink: /journalpapers/2012-03-01-journal-paper-000
 excerpt: 'Authors: <b>周建山</b>, 田大新, 王云鹏, 韩旭, 李岳光, 段续庭'
 date: 2012-03-01
-venue: '交通运输系统工程与信息, 2012, 12(s1): 38-44.'
+venue: '交通运输系统工程与信息, 2012, 12(增1): 38-44.'
 paperurl: 'http://www.tseit.org.cn/CN/Y2012/V12/I%E5%A2%9E1/38'
 citation: '<b>周建山</b>, 田大新, 王云鹏, 韩旭, 李岳光, & 段续庭. (2012). 基于车路协同的匝道合流区行车安全控制系统. 交通运输系统工程与信息, 12(增1), 38-44.'
 ---

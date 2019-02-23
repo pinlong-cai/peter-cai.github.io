@@ -12,31 +12,34 @@ author_profile: true
 {% include base_path %}
 
 
-+ [Journal Papers](#Journal Papers)
-+ [Conference papers](#Conference papers)
++ [Journal Papers](#JournalPapers)
++ [Conference papers](#ConferencePapers)
 + [Patents](#Patents)
 
+
 {% for post in site.journalpapers reversed %}
-  {% if forloop.first %}
+  {% if forloop.last %}
   <p>{{ forloop.length }} co-authored journal papers have been published/accepted.</p>
   {% endif %}
 {% endfor %}
 
+
 {% for post in site.conferencepapers reversed %}
-  {% if forloop.first %}
+  {% if forloop.last %}
   <p>{{ forloop.length }} co-authored conference papers have been published/accepted.</p>
   {% endif %}
 {% endfor %}
 
 
-# <a name="Journal Papers"></a>Journal Papers
+
+# <a name="JournalPapers"></a>Journal Papers
 
 
 {% for post in site.journalpapers reversed %}
   {% include my-archive-single.html %}
 {% endfor %}
 
-# <a name="Conference papers"></a>Conference papers
+# <a name="ConferencePapers"></a>Conference Papers
 
 {% for post in site.conferencepapers reversed %}
   {% include my-archive-single.html %}

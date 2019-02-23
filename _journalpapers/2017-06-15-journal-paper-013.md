@@ -1,0 +1,12 @@
+---
+title: "Self-organized Relay Selection for Cooperative Transmission in Vehicular Ad-hoc Networks"
+collection: journalpapers
+permalink: /journalpapers/2017-06-15-journal-paper-013
+excerpt: 'Authors: Tian, D., <b>Zhou, J.</b>, Sheng, Z., Chen, M., Ni, Q., & Leung, V. C. M.'
+date: 2017-06-15
+venue: 'IEEE Transactions on Vehicular Technology, 66(10), 9534-9549.'
+paperurl: 'https://ieeexplore.ieee.org/document/7949033'
+citation: 'Tian, D., <b>Zhou, J.</b>, Sheng, Z., Chen, M., Ni, Q., & Leung, V. C. (2017). Self-organized relay selection for cooperative transmission in vehicular ad-hoc networks. IEEE Transactions on Vehicular Technology, 66(10), 9534-9549.'
+---
+
+**Abstract**: Cooperation is a promising paradigm to improve spatial diversity in vehicular ad-hoc networks. In this paper, we pose a fundamental question: How the greediness and selfishness of individual nodes impact cooperation dynamics in vehicular ad-hoc networks. We map the self-interest-driven relay selection decision-making problem to an automata game formulation and present a noncooperative game-theoretic analysis. We show that the relay selection game is an ordinal potential game. A decentralized self-organized relay selection algorithm is proposed based on a stochastic learning approach where each player evolves toward a strategic equilibrium state in the sense of Nash. Furthermore, we study the exact outage behavior of the multirelay decode-and-forward cooperative communication network. Closed-form solutions are derived for the actual outage probability of this multirelay system in both independent and identically distributed channels and generalized channels, which need not assume an asymptotic or high signal-to-noise ratio. Two tight approximations with low computational complexity are also developed for the lower bound of the outage probability. With the exact closed-form outage probability, we further develop an optimization model to determine optimal power allocations in the cooperative network, which can be combined with the decentralized learning-based relay selection. The analysis of the exact and approximative outage behaviors and the convergence properties of the proposed algorithm toward a Nash equilibrium state are verified theoretically and numerically. Simulation results are also given to demonstrate that the resulting cooperative network induced by the proposed algorithm achieves high energy efficiency, transmission reliability, and network-wide fairness performance.

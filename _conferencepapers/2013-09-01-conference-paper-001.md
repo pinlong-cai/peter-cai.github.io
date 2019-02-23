@@ -5,7 +5,7 @@ permalink: /conferencepapers/2013-09-01-conference-paper-001
 excerpt: 'Authors: <b>周建山</b>, 田大新, 王云鹏, 罗浩, & 夏海英'
 date: 2013-09-01
 venue: '第八届中国智能交通年会优秀论文集——智能交通与安全, 89-95'
-paperurl: 'http://xueshu.baidu.com/s?wd=paperuri%3A%28539c77b892f144ce5ff11f0bc4199010%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fcpfd.cnki.com.cn%2FArticle%2FCPFDTOTAL-ZJTX201309001013.htm&ie=utf-8&sc_us=4011121940993103553'
+paperurl: 'http://cpfd.cnki.com.cn/Area/CPFDCONFArticleList-ZJTX201309001.htm'
 citation: '<b>周建山</b>, 田大新, 王云鹏, 罗浩, & 夏海英. (2013). 基于车联网的交通应急疏散优化方法. 第八届中国智能交通年会优秀论文集——智能交通与安全, 89-95.'
 ---
 

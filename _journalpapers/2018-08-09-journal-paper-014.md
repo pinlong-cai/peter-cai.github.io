@@ -1,9 +1,9 @@
 ---
 title: "A microbial inspired routing protocol for VANETs"
 collection: journalpapers
-permalink: /journalpapers/2017-08-09-journal-paper-014
+permalink: /journalpapers/2018-08-09-journal-paper-014
 excerpt: 'Authors: Tian, D., Zheng, K., <b>Zhou, J.</b>, Duan, X., Wang, Y., Sheng, Z., & Ni, Q.'
-date: 2017-08-09
+date: 2018-08-09
 venue: 'IEEE Internet of Things Journal, 5(4), 2293-2303.'
 paperurl: 'https://ieeexplore.ieee.org/document/8004418'
 citation: 'Tian, D., Zheng, K., <b>Zhou, J.</b>, Duan, X., Wang, Y., Sheng, Z., & Ni, Q. (2018). A microbial inspired routing protocol for VANETs. IEEE Internet of Things Journal, 5(4), 2293-2303.'

@@ -20,7 +20,10 @@ Journal Papers
 
 Conference papers
 ---------
-+ hello world!
+
+{% for post in site.conferencepapers reversed %}
+  {% include my-archive-single.html %}
+{% endfor %}
 
 Patents
 -----------

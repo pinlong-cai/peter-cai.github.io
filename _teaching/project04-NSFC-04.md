@@ -8,11 +8,12 @@ date: 2018-01-01
 location: "Beijing, China"
 ---
 
-**Key Student Member** established the overall project proposal motivated by micro-level biological intelligence, proposed the research goal and approach, and engaged in devising novel paradigms of networking and communication models, algorithms and protocols to deal with challenges in mobile ad hoc networks by looking at the microbiological characteristics as the source of inspiration, such as the cellular adaptability to varying environments, inherent robustness to failures and damages, self-organization, evolvability, etc.
+**Key Student Member** established the overall project proposal in terms of the data-driven pattern recognition of massive connected vehicles\' mobility and demands on network resources, the joint scheduling optimization of 5G-oriented computation and communication resources for massive connected vehicles, the spatio-temporal state evaluation and mobility optimization of massive connected vehicles, and the system performance evaluation based on simulation models and field tests, proposed the research goal and approach, and engaged in devising novel models, algorithms and protocols based on swarm intelligence to tackle the challenging issues of cooperative communication-computation resources scheduling and optimization for connected vehicles.
 
 Detailed contributions include:
 
-+ Developed a non-cooperative game-theoretic framework for energy-efficient and reliable cooperative networking and communications, and proposed a relay selection decision-making algorithm based on stochastic learning approach for achieving the Nash equilibrium performance of the cooperative network.
-+ Proposed an adaptive beacon control scheme by combining the reinforcement learning theory and the epidemic routing protocol to enhance the performance of vehicular ad hoc networks in terms of both the reliability and the resource conservation.
-+ Developed an adaptive probabilistic infection and an adaptive limited-time forwarding mechanisms for epidemic broadcasting in vehicular ad hoc networks, and proposed an adaptive vehicular epidemic routing method by combining the epidemic mechanism with the attractor selection model to achieve a good trade-off between reachability and efficiency of message dissemination.
++ Proposed a reliability-oriented stochastic optimization model based on the dynamic programming for computation offloading in the presence of the deadline constraint on application execution.
++ Analytically formulated the transient inter-vehicle connectivity under Nakagami fading channels and developed a stochastic model of the session-layer throughput performance evaluation of the inter-vehicle link based on DSRC.
++ Developed a robust optimization model for assigning content data traffic among different cooperative transmission paths, where the objective is to minimize the maximum likelihood of unsuccessful content transmissions over a cooperative vehicular ad hoc network.
+
 

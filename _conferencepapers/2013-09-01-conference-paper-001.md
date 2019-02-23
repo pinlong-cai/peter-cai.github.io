@@ -1,7 +1,7 @@
 ---
 title: "基于车联网的交通应急疏散优化方法"
 collection: conferencepapers
-permalink: /conferencepapers/2012-09-01-conference-paper-000
+permalink: /conferencepapers/2013-09-01-conference-paper-001
 excerpt: 'Authors: <b>周建山</b>, 田大新, 王云鹏, 罗浩, & 夏海英'
 date: 2013-09-01
 venue: '第八届中国智能交通年会优秀论文集——智能交通与安全, 89-95'

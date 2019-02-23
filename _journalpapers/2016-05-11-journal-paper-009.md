@@ -4,7 +4,7 @@ collection: journalpapers
 permalink: /journalpapers/2016-05-11-journal-paper-009
 excerpt: 'Authors: Tian, D., <b>Zhou, J.</b>, Sheng, Z., & Leung, V. C.'
 date: 2016-05-11
-venue: 'Transportation Research Part C Emerging Technologies, 69, 36-59.'
+venue: 'IEEE Transactions on Vehicular Technology, 65(6), 3845-3859.'
 paperurl: 'https://ieeexplore.ieee.org/document/7468546'
 citation: 'Tian, D., <b>Zhou, J.</b>, Sheng, Z., & Leung, V. C. (2016). Robust energy-efficient MIMO transmission for cognitive vehicular networks. IEEE Transactions on Vehicular Technology, 65(6), 3845-3859.'
 ---

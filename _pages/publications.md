@@ -12,8 +12,9 @@ author_profile: true
 {% include base_path %}
 
 
-[TOC]
-
++ [Journal Papers](#Journal Papers)
++ [Conference papers](#Conference papers)
++ [Patents](#Patents)
 
 {% for post in site.journalpapers reversed %}
   <p>{{ forloop.length }} co-authored journal papers have been published/accepted.</p>
@@ -24,22 +25,20 @@ author_profile: true
 {% endfor %}
 
 
-Journal Papers
------------
+# Journal Papers
+
 
 {% for post in site.journalpapers reversed %}
   {% include my-archive-single.html %}
 {% endfor %}
 
-Conference papers
----------
+# Conference papers
 
 {% for post in site.conferencepapers reversed %}
   {% include my-archive-single.html %}
 {% endfor %}
 
-Patents
------------
+# Patents
 
 + hello world!
 

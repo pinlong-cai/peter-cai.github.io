@@ -1,5 +1,5 @@
 ---
-title: "[Jun 2013 - Dec 2013] Vehicle-to-Vehicle (V2V) Information Interaction-based Cooperative Control Technologies (Grant No. 2011AA110403)"
+title: "[Jan 2011 - Dec 2013] Vehicle-to-Vehicle (V2V) Information Interaction-based Cooperative Control Technologies (Grant No. 2011AA110403)"
 collection: teaching
 type: "The National High Technology Research and Development Program of China (863 Program)"
 permalink: /teaching/2014-spring-teaching-1

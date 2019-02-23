@@ -2,7 +2,7 @@
 title: "[Jun 2013 - Jun 2015] Design and Implementation of an Adaptive Wireless Accessing Algorithm for Vehicular Multi-mode Communications in Heterogeneous Networks (Grant No. YCSJ-02-2013-01)"
 collection: teaching
 type: "The Beihang University Innovation & Practice Fund for Graduate"
-permalink: /teaching/project-YCSJ-01
+permalink: /teaching/project01-YCSJ-01
 venue: "CVIS&SC Lab, Beihang University"
 date: 2015-06-06
 location: "Beijing, China"

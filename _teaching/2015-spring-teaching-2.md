@@ -1,5 +1,5 @@
 ---
-title: "[Jun 2014 - Dec 2014] Key Traffic Energy-Saving Technologies and Applications Based on Internet of Vehicles (Grant No. 2012AA111903)"
+title: "[Jan 2012 - Jan 2014] Key Traffic Energy-Saving Technologies and Applications Based on Internet of Vehicles (Grant No. 2012AA111903)"
 collection: teaching
 type: "The National High Technology Research and Development Program of China (863 Program)"
 permalink: /teaching/2015-spring-teaching-1

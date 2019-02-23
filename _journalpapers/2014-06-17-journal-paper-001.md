@@ -1,7 +1,7 @@
 ---
 title: "A bayesian compressive sensing vehicular location method based on three-dimensional radio frequency"
 collection: journalpapers
-permalink: /journalpapers/2014-journal-paper-001
+permalink: /journalpapers/2014-06-17-journal-paper-001
 excerpt: 'Authors: Wang, Y., Duan, X., Tian, D., <b>Zhou, J.</b>, Lu, Y., & Lu, G.'
 date: 2014-06-17
 venue: 'International Journal of Distributed Sensor Networks, 2014(3), 1-13.'

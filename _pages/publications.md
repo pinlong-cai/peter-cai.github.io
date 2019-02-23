@@ -14,7 +14,7 @@ author_profile: true
 Journal Papers
 -----------
 
-{% for post in site.journalpaper reversed %}
+{% for post in site.journalpapers reversed %}
   {% include my-archive-single.html %}
 {% endfor %}
 

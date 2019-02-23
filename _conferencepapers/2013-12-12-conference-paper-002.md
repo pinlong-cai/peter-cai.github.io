@@ -6,7 +6,7 @@ excerpt: 'Authors: Tian, D., Yuan, Y., <b>Zhou, J.</b>, Wang, Y., Lu, G., & Xia,
 date: 2013-12-12
 venue: '2013 IEEE International Conference on Green Computing and Communications and IEEE Internet of Things and IEEE Cyber,
 Physical and Social Computing, 1512-1517'
-paperurl: 'http://cpfd.cnki.com.cn/Area/CPFDCONFArticleList-ZJTX201309001.htm'
+paperurl: 'https://ieeexplore.ieee.org/document/6682280'
 citation: 'Tian, D., Yuan, Y., <b>Zhou, J.</b>, Wang, Y., Lu, G., & Xia, H. (2013, August). Real-time vehicle route guidance based on connected vehicles. In 2013 IEEE International Conference on Green Computing and Communications and IEEE Internet of Things and IEEE Cyber, Physical and Social Computing (pp. 1512-1517). Beijing, China.'
 ---
 

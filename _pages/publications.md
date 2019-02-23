@@ -17,28 +17,32 @@ author_profile: true
 + [Patents](#Patents)
 
 {% for post in site.journalpapers reversed %}
+  {% if forloop.first %}
   <p>{{ forloop.length }} co-authored journal papers have been published/accepted.</p>
+  {% endif %}
 {% endfor %}
 
 {% for post in site.conferencepapers reversed %}
+  {% if forloop.first %}
   <p>{{ forloop.length }} co-authored conference papers have been published/accepted.</p>
+  {% endif %}
 {% endfor %}
 
 
-# Journal Papers
+# <a name="Journal Papers"></a>Journal Papers
 
 
 {% for post in site.journalpapers reversed %}
   {% include my-archive-single.html %}
 {% endfor %}
 
-# Conference papers
+# <a name="Conference papers"></a>Conference papers
 
 {% for post in site.conferencepapers reversed %}
   {% include my-archive-single.html %}
 {% endfor %}
 
-# Patents
+# <a name="Patents"></a>Patents
 
 + hello world!
 

@@ -8,11 +8,11 @@ date: 2016-01-01
 location: "Beijing, China"
 ---
 
-**Key Student Member** established the overall project proposal motivated by micro-level biological intelligence, proposed the research goal and approach, and engaged in devising novel paradigms of networking and communication models, algorithms and protocols to deal with challenges in mobile ad hoc networks by looking at the microbiological characteristics as the source of inspiration, such as the cellular adaptability to varying environments, inherent robustness to failures and damages, self-organization, evolvability, etc.
+**Student Member** participating in the establishment of the overall project proposal, and engaged in adapting cell-level biological mechanisms to develop innovative decision-making methods for complex adaptive systems (such as an urban traffic network) in which agents are driven by certain biological intelligence to self-organize in a distributed manner, effectively utilize constrained resources by collaborative intelligence and co-evolve to a global efficient equilibirum.
 
 Detailed contributions include:
 
-+ Developed a non-cooperative game-theoretic framework for energy-efficient and reliable cooperative networking and communications, and proposed a relay selection decision-making algorithm based on stochastic learning approach for achieving the Nash equilibrium performance of the cooperative network.
-+ Proposed an adaptive beacon control scheme by combining the reinforcement learning theory and the epidemic routing protocol to enhance the performance of vehicular ad hoc networks in terms of both the reliability and the resource conservation.
-+ Developed an adaptive probabilistic infection and an adaptive limited-time forwarding mechanisms for epidemic broadcasting in vehicular ad hoc networks, and proposed an adaptive vehicular epidemic routing method by combining the epidemic mechanism with the attractor selection model to achieve a good trade-off between reachability and efficiency of message dissemination.
++ Indentified the analogy between cells and signal controllers at those traffic intersections in a dynamic traffic network in terms of constrained decision-making behavior and mapped the problem of traffic signal control to the formulation of the response of a cellular gene network to a varying environment.
++ Proposed an adaptive traffic signal control framework that incoporates the adaptive and robust mechanism governing the dynamics of the stable gene expression in cells, called cellular attractor selection, into the signal operations of each individual controller to realize a globally self-adaptive traffic network regardless of stochastic and time-varying traffic load on each link.
++ Conducted simulation experiments to demonstrate the advantage and effectiveness of the adaptive attractor selection-based control formation in terms of system adaptability and efficiency, which provides an understanding of the potential of the bio-inspired intelligence in the design of complex adaptive systems and stochastic optimization.
 

@@ -11,6 +11,10 @@ author_profile: true
 
 {% include base_path %}
 
+
+[TOC]
+
+
 {% for post in site.journalpapers reversed %}
   <p>{{ forloop.length }} co-authored journal papers have been published/accepted.</p>
 {% endfor %}

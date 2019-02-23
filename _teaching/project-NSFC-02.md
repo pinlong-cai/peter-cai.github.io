@@ -1,5 +1,5 @@
 ---
-title: "[Apr 2013 - Jun 2015] Microbiology-inspired Key technologies for Mobile Ad Hoc Networks (Grant No. 61672082)"
+title: "[Jun 2013 - Jun 2015] Microbiology-inspired Key technologies for Mobile Ad Hoc Networks (Grant No. 61672082)"
 collection: teaching
 type: "The Beihang University Innovation & Practice Fund for Graduate"
 permalink: /teaching/project-YCSJ-01

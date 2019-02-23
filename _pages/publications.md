@@ -31,6 +31,12 @@ author_profile: true
 {% endfor %}
 
 
+{% for post in site.patents reversed %}
+  {% if forloop.last %}
+  <p>{{ forloop.length }} co-held patents have been published.</p>
+  {% endif %}
+{% endfor %}
+
 
 # <a name="JournalPapers"></a>Journal Papers
 
@@ -47,5 +53,7 @@ author_profile: true
 
 # <a name="Patents"></a>Patents
 
-+ hello world!
+{% for post in site.patents reversed %}
+  {% include my-archive-single.html %}
+{% endfor %}
 

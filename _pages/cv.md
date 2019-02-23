@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -38,9 +38,26 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+
+Journal Papers
+------
+  <ul>{% for post in site.journalpapers %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
+ 
+Conference Papers
+------
+  <ul>{% for post in site.conferencepapers %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+ patents
+------
+  <ul>{% for post in site.patents %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
   
 Talks
 ======
@@ -48,7 +65,7 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Project Experience
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}

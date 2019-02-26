@@ -1,18 +1,9 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "My Award and Honors"
+layout: archive
+author_profile: true
+permalink: /portfolio/portfolio-1
 collection: portfolio
 ---
-
-+ [2018](#2018)
-+ [2017](#2017)
-+ [2016](#2016)
-+ [2015](#2015)
-+ [2014](#2014)
-+ [2013](#2013)
-+ [2012](#2012)
-+ [2011](#2011)
-+ [2010](#2010)
 
 ## <a name="2018"></a>2018
 

@@ -20,14 +20,14 @@ redirect_from:
 + [2011](#2011)
 + [2010](#2010)
 
-# <a name="2018"></a>2018
+## <a name="2018"></a>2018
 
 + 2018年北京航空航天大学十佳博士研究生称号
     2018 Beihang Top-ten Outstanding PhD Student Award
 + 2018年北京航空航天大学优秀研究生称号
     2018 Beihang Excellent Graduate Student
 
-# <a name="2017"></a>2017
+## <a name="2017"></a>2017
 
 + 2017年北京航空航天大学优秀研究生称号
     2018 Beihang Excellent Graduate Student
@@ -38,12 +38,12 @@ redirect_from:
 + 2017年中国智能交通协会科学技术奖一等奖(学生第1完成人/排名6)
     2017 The First-class Science and Technology Prize of China Intelligent Transportation Systems Assoication
 
-# <a name="2016"></a>2016
+## <a name="2016"></a>2016
 
 + 2016年北京航空航天大学博士新生奖学金
     2016 The Beihang Outstanding New PhD Student Award
 
-# <a name="2015"></a>2015
+## <a name="2015"></a>2015
 
 + 硕士毕业论文题目为《面向异构车联网的生物启发式垂直切换方法研究》(指导教师：田大新)荣获2013级北京航空航天大学优秀硕士毕业论文奖
     2013 The Outstanding Master's Thesis Award of Beihang University (Thesis Topic: A Research on Bio-inspired Vertical Handoff Method for Heterogeneous Vehicular Telematics; Supervisor: Prof. [Daxin Tian][tdx])
@@ -54,14 +54,14 @@ redirect_from:
 + 2015年北京航空航天大学优秀学生会干部称号
     2015 The Excellent Student Cadres Award of Beihang Student Union
 
-# <a name="2014"></a>2014
+## <a name="2014"></a>2014
 
 + 2014年车路协同与安全控制北京市重点实验室学术标兵
         2014 The Model Research Student Award of the Beijing Key Laboratory for Cooperative Vehicle-Infrastructure Systems and Safety Control 
 + 2014年硕士研究生国家奖学金
         2014 National Scholarship for Graduate Students
 
-# <a name="2013"></a>2013
+## <a name="2013"></a>2013
 
 + 2013年北京航空航天大学优秀本科毕业生称号
     2013 Beihang Excellent Undergraduate Student
@@ -71,7 +71,7 @@ redirect_from:
 [tdx]: http://transportation.buaa.edu.cn/info/1036/1100.htm
 
 
-# <a name="2012"></a>2012
+## <a name="2012"></a>2012
 
 + 2012年本科生国家奖学金
         2012 National Scholarship for Undergraduate Students
@@ -90,7 +90,7 @@ redirect_from:
 + 第7届全国大学生交通科技大赛优秀奖
     2012 The Honorable Mention in National Competition of Transport Science and Technology for Students
 
-# <a name="2011"></a>2011
+## <a name="2011"></a>2011
 
 + 2011北京航空航天大学交通科学与工程学院“志成冠军”学习优秀奖学金一等奖
     2011 The First-class Excellent Study Prize for Beihang Undergraduate Student Funded by Zhicheng Champion Group
@@ -103,7 +103,7 @@ redirect_from:
 + 北京航空航天大学学习优秀奖学金三等奖
     2011 The Third-class Excellent Study Prize for Beihang Undergraduate Student
     
- # <a name="2010"></a>2010
+## <a name="2010"></a>2010
  
  + 第2届全国大学生数学竞赛北京赛区二等奖
     2010 The Second-class Prize of Beijing Municipal Mathematics Competition of Chinese College Students

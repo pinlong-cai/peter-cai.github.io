@@ -19,6 +19,6 @@ author_profile: true
 
 
 {% for post in site.portfolio %}
-  {% archive-awardsandhonors.html %}
+  {% include archive-awardsandhonors.html %}
 {% endfor %}
 

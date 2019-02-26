@@ -1,9 +1,9 @@
 {% include base_path %}
-<script src="//platform-api.sharethis.com/js/sharethis.js#property=5c755299e206ca00119045ad&product=inline-share-buttons"></script>
 <section class="page__share">
   {% if site.data.ui-text[site.locale].share_on_label %}
     <h4 class="page__share-title">{{ site.data.ui-text[site.locale].share_on_label | default: "Share on" }}</h4>
   {% endif %}
-<p class="sharethis-inline-share-buttons"></p>
+                <!-- Go to www.addthis.com/dashboard to customize your tools -->
+                <div class="addthis_inline_share_toolbox"></div>
 </section>
 

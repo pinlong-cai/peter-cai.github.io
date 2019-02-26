@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-collection: portfolio
+title: My page
+layout: single
 ---
 
 ## <a name="2018"></a>2018

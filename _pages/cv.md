@@ -64,7 +64,7 @@ redirect_from:
  
 # <a name="AwardsAndHonors"></a>Awards & Honors
 
-+ hello world
+{% for post in site.portfolio %} {% include archive-awardsandhonors.html %} {% endfor %}
 
 
 # <a name="Skills"></a>Skills

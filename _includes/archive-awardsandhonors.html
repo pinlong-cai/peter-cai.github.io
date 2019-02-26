@@ -1,5 +1,7 @@
 {% include base_path %}
 
-<p align="Left">
+<p class="page__hero">
+  <span>
   {{ post.content | markdownify | remove: "<p>" | remove: "</p>" }}
+  </span>
 </p>

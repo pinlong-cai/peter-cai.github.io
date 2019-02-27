@@ -1,9 +1,9 @@
 ---
 title: "A multi-hop routing protocol for video transmission in iovs based on cellular attractor selection"
 collection: journalpapers
-permalink: /journalpapers/2019-06-01-journal-paper-018
+permalink: /journalpapers/2019-01-30-journal-paper-018
 excerpt: 'Authors: Tian, D., Zhang, C., Duan, X., Wang, Y., <b>Zhou, J.</b>, & Sheng, Z.'
-date: 2019-06-01
+date: 2019-01-30
 venue: 'Future Generation Computer Systems, 95, 713-726.'
 paperurl: 'https://www-sciencedirect-com-443.e.buaa.edu.cn/science/article/pii/S0167739X18318077'
 citation: 'Tian, D., Zhang, C., Duan, X., Wang, Y., <b>Zhou, J.</b>, & Sheng, Z. (2019). A multi-hop routing protocol for video transmission in iovs based on cellular attractor selection. Future Generation Computer Systems, 95, 713-726.'

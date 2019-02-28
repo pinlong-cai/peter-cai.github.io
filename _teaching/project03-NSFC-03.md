@@ -14,5 +14,5 @@ Detailed contributions include:
 
 + Developed a non-cooperative game-theoretic framework for energy-efficient and reliable cooperative networking and communications, and proposed a relay selection decision-making algorithm based on stochastic learning approach for achieving the Nash equilibrium performance of the cooperative network.
 + Proposed an adaptive beacon control scheme by combining the reinforcement learning theory and the epidemic routing protocol to enhance the performance of vehicular ad hoc networks in terms of both the reliability and the resource conservation.
-+ Developed an adaptive probabilistic infection and an adaptive limited-time forwarding mechanisms for epidemic broadcasting in vehicular ad hoc networks, and proposed an adaptive vehicular epidemic routing method by combining the epidemic mechanism with the attractor selection model to achieve a good trade-off between reachability and efficiency of message dissemination.
++ Developed an adaptive probabilistic infection and an adaptive limited-time forwarding mechanisms for epidemic broadcasting in vehicular ad hoc networks, and proposed an adaptive vehicular epidemic routing method by combining the epidemic mechanism with the attractor selection model to achieve a good trade-off between reliability and efficiency of message dissemination.
 

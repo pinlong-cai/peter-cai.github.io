@@ -30,7 +30,7 @@ permalink: /portfolio/portfolio-1
 ## <a name="2015"></a>2015
 
 + 硕士毕业论文题目为《面向异构车联网的生物启发式垂直切换方法研究》(指导教师：田大新)荣获2013级北京航空航天大学优秀硕士毕业论文奖
-    2013 The Outstanding Master's Thesis Award of Beihang University (Thesis Topic: A Research on Bio-inspired Vertical Handoff Method for Heterogeneous Vehicular Telematics; Supervisor: Prof. [Daxin Tian][tdx])
+    2015 The Outstanding Master's Thesis Award of Beihang University (Thesis Topic: A Research on Bio-inspired Vertical Handoff Method for Heterogeneous Vehicular Telematics; Supervisor: Prof. [Daxin Tian][tdx])
 + 2015年车路协同与安全控制北京市重点实验室学术标兵
     2015 The Model Research Student Award of the Beijing Key Laboratory for Cooperative Vehicle-Infrastructure Systems and Safety Control 
 + 2015年硕士研究生国家奖学金

@@ -14,7 +14,7 @@ permalink: /portfolio/portfolio-1
 ## <a name="2017"></a>2017
 
 + 2017年北京航空航天大学优秀研究生称号
-    2018 Beihang Excellent Graduate Student
+    2017 Beihang Excellent Graduate Student
 + 2017年博士研究生国家奖学金
     2017 National Scholarship for Doctoral Students
 + 2017年北京航空航天大学工信部创新奖学金二等奖

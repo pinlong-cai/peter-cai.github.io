@@ -66,9 +66,9 @@ permalink: /portfolio/portfolio-1
 + 2012美国大学生数学建模竞赛一等奖
  2012 The Meritorious Winner in Mathematical Contest In Modeling
 + 2012北京航空航天大学优秀本科生称号
-    2013 Beihang Excellent Undergraduate Student
+    2012 Beihang Excellent Undergraduate Student
 + 第5届全国计算机仿真大赛二等奖
-    2013 The Second-class Prize for National Computer Simulation Contest
+    2012 The Second-class Prize for National Computer Simulation Contest
 + 2012北京航空航天大学第22届“冯如杯”科技竞赛二等奖
     2012 The Second-class Prize for Beihang "Fengru"-Cup Science and Technology Contest
 + 第7届全国大学生交通科技大赛优秀奖

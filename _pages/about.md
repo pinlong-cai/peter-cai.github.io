@@ -20,7 +20,7 @@ Currently, I am a student member of *Beijing Key Laboratory for Cooperative Vehi
 Contact info 
 --------
 <address>
-  No. 11 Student Apartment of Beihang University <br /> No. 37 Xueyuan Road, Haidian District, Beijing 100191 <br /> P. R. China
+  No. 2 Student Apartment of Beihang University (Shahe District) <br /> 9 Gaojiaoyuan South 3rd Street, Shahe District, Beijing 102206 <br /> P. R. China
 </address> 
 
 

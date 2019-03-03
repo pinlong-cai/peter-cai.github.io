@@ -8,7 +8,7 @@ date: 2014-06-07
 location: "Beijing, China"
 ---
 
-**Student Member** participating in the establishment of the project proposal and collaborated with the connected vehicles group of the CVIS&SC Lab to develop mathematical models, algorithm prototypes and on-board functional modules for effective support of vehicular safety warning and the real-time dynamic route guidance with Internet of Vehicles.
+**Student Member** collaborated with the connected vehicles group of the CVIS&SC Lab to develop mathematical models, algorithm prototypes and on-board functional modules for effective support of vehicular safety warning and the real-time dynamic route guidance with Internet of Vehicles.
 
 Detailed contributions include:
 

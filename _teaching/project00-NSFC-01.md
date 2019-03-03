@@ -8,7 +8,7 @@ date: 2014-08-08
 location: "Beijing, China"
 ---
 
-**Student Member** participating in the establishment of the project proposal and collaborated with the connected vehicles group of the CVIS&SC Lab to investigate the issues of vehicle platoon with mixed communication conditions, the adaptive signal control of an traffic intersection and the evacuation route planning and traffic assignment by theoretical modeling and simulations, and to develop optimization and decision-making schemes for these issues.
+**Student Member** collaborated with the connected vehicles group of the CVIS&SC Lab to investigate the issues of vehicle platoon with mixed communication conditions, the adaptive signal control of an traffic intersection and the evacuation route planning and traffic assignment by theoretical modeling and simulations, and to develop optimization and decision-making schemes for these issues.
 
 Detailed contributions include:
 

@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 + [Education](#Education)
-+ [Work experience](#Work experience)
++ [Work experience](#Workexperience)
 + [Skills](#Skills)
 + [Publications](#Publications)
 + [Talks](#Talks)
-+ [Service and leadership](#Service and leadership)
++ [Service and leadership](#Serviceandleadership)
 
 # <a name="Education"></a>Education
 ======
@@ -21,7 +21,7 @@ redirect_from:
 * M.S. in Traffic Information Engineering and Control, Beihang University, 2016
 * Ph.D in Traffic Information Engineering and Control, Beihang University, 2020 (expected)
 
-# <a name="Work experience"></a>Work experience
+# <a name="Workexperience"></a>Work experience
 ======
 * Summer 2015: Research Assistant
   * Beijing Transport Institute
@@ -58,7 +58,7 @@ redirect_from:
   {% endfor %}</ul>
   
   
-# <a name="Service and leadership"></a>Service and leadership
+# <a name="Serviceandleadership"></a>Service and leadership
 ======
 * Secretary of Student Party Branch (Doctoral Class 2017-2018/Professional Vertical 2014-2015-2018 to present)
 * Excellent Volunteers for the Volunteer Service Activities of the Western Warmth Project (2014)

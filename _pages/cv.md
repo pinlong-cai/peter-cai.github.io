@@ -18,14 +18,17 @@ Education
 Work experience
 ======
 * Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Beijing Transport Institute
+  * Duties included: Big Data Processing and Analysis
+  * Project information: 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* From Spring 2016 to Summer 2017: Research and Development Engineer
+  * Quanzhou Institute of Equipment Manufacturing, Haixi Institutes, Chinese Academy of Sciences
+  * Duties included: Data Modelling and Machine Learning
+  * Project information: 
+    -- Fault detection of Wind Turbines for [DUNAN HOLDING GROUP CO LTD](http://www.chinadunan.com/)
+    -- Design of Multiple AGV Scheduling System for [Amperex Technology Limited](http://www.catlbattery.com/).
+
   
 Skills
 ======

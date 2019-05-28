@@ -21,15 +21,15 @@ Work experience
   * Beijing Transport Institute
   * Duties included: Big Data Processing and Analysis
   * Project information: 
-    \surd Floating Vehicle Data Processing for 20 Cities in China.
-    \surd Visual Cloud Map/Spatial and Temporal Distribution Analysis of Congestion Index Network State.
+    $\surd$ Floating Vehicle Data Processing for 20 Cities in China.
+    $\surd$ Visual Cloud Map/Spatial and Temporal Distribution Analysis of Congestion Index Network State.
 
 * From Spring 2016 to Summer 2017: Research and Development Engineer
   * Quanzhou Institute of Equipment Manufacturing, Haixi Institutes, Chinese Academy of Sciences
   * Duties included: Data Modelling and Machine Learning
   * Project information: 
-    \surd Fault detection of Wind Turbines for [DUNAN HOLDING GROUP CO LTD](http://www.chinadunan.com/).
-    \surd Design of Multiple AGV Scheduling System for [Amperex Technology Limited](http://www.catlbattery.com/).
+    $\surd$ Fault detection of Wind Turbines for [DUNAN HOLDING GROUP CO LTD](http://www.chinadunan.com/).
+    $\surd$ Design of Multiple AGV Scheduling System for [Amperex Technology Limited](http://www.catlbattery.com/).
 
   
 Skills

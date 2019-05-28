@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Beihang University, Beihang University, 2013
-* M.S. in Jekyll, Beihang University, 2016
-* Ph.D in Version Control Theory, Beihang University, 2020 (expected)
+* B.S. in Traffic and Transportation, Beihang University, 2013
+* M.S. in Traffic Information Engineering and Control, Beihang University, 2016
+* Ph.D in Traffic Information Engineering and Control, Beihang University, 2020 (expected)
 
 Work experience
 ======
@@ -47,18 +47,16 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+  
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Secretary of Student Party Branch (Doctoral Class 2017-2018/Professional Vertical 2014-2015-2018 to present)
+* Excellent Volunteers for the Volunteer Service Activities of the Western Warmth Project (2014)
+* Finance Minister/Vice President of Nan'an Students'Association of Beijing University (2010-2012)

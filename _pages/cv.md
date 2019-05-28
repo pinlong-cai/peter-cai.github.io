@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,14 +8,20 @@ redirect_from:
 ---
 
 {% include base_path %}
++ [Education](#Education)
++ [Work experience](#Work experience)
++ [Skills](#Skills)
++ [Publications](#Publications)
++ [Talks](#Talks)
++ [Service and leadership](#Service and leadership)
 
-Education
+# <a name="Education"></a>Education
 ======
 * B.S. in Traffic and Transportation, Beihang University, 2013
 * M.S. in Traffic Information Engineering and Control, Beihang University, 2016
 * Ph.D in Traffic Information Engineering and Control, Beihang University, 2020 (expected)
 
-Work experience
+# <a name="Work experience"></a>Work experience
 ======
 * Summer 2015: Research Assistant
   * Beijing Transport Institute
@@ -30,30 +36,29 @@ Work experience
   * Project information: 
     * Fault detection of Wind Turbines for [Dunan Holding Group Co., Ltd.](http://www.chinadunan.com/).
     * Design of Multiple AGV Scheduling System for [Amperex Technology Limited](http://www.catlbattery.com/).
-
-  
-Skills
+ 
+# <a name="Skills"></a>Skills
 ======
 * Foreign language: English at the level of CET6
 * Programming language: MATLAB, Python, C/C#/C++, Java, SQL
 * Professional software: Q-Paramics, VISSIM, AutoCAD, TransCAD, Solidworks, etc.
 * Microsoft Offices, Photoshop, Corel VideoStudio, Latex word processor， etc.
-
-Publications
+ 
+# <a name="Publications"></a>Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
   
-Talks
+# <a name="Talks"></a>Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
   
-Service and leadership
+# <a name="Service and leadership"></a>Service and leadership
 ======
 * Secretary of Student Party Branch (Doctoral Class 2017-2018/Professional Vertical 2014-2015-2018 to present)
 * Excellent Volunteers for the Volunteer Service Activities of the Western Warmth Project (2014)

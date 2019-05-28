@@ -1,5 +1,5 @@
 ---
-title: " Tunable and Transferable RBF Model for Short-Term Traffic Forecasting"
+title: "Tunable and Transferable RBF Model for Short-Term Traffic Forecasting"
 collection: journalpapers
 permalink: /_publications/2018-11-journal-paper-002
 excerpt: 'Authors: <b>Pinlong Cai</b>, Yunpeng Wang, Guangquan Lu*'

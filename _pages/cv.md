@@ -34,12 +34,10 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Foreign language: English at the level of CET6
+* Programming language: MATLAB, Python, C/C#/C++, Java, SQL
+* Professional software: Q-Paramics, VISSIM, AutoCAD, TransCAD, Solidworks, etc.
+* Microsoft Offices, Photoshop, Corel VideoStudio, Latex word processor， etc.
 
 Publications
 ======

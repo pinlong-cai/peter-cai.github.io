@@ -28,7 +28,7 @@ Work experience
   * Quanzhou Institute of Equipment Manufacturing, Haixi Institutes, Chinese Academy of Sciences
   * Duties included: Data Modelling and Machine Learning
   * Project information: 
-    * Fault detection of Wind Turbines for [DUNAN HOLDING GROUP CO LTD](http://www.chinadunan.com/).
+    * Fault detection of Wind Turbines for [Dunan Holding Group Co., Ltd.](http://www.chinadunan.com/).
     * Design of Multiple AGV Scheduling System for [Amperex Technology Limited](http://www.catlbattery.com/).
 
   

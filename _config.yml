@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Pinlong Cai / Site Title"
+locale                   : "China"
+title                    : "Pinlong Cai"
 title_separator          : "-"
 name                     : &name "Pinlong Cai"
 description              : &description "Ph.D student at Beijing Key Laboratory for Cooperative Vehicle Infrastructure Systems and Safety Control, Beihang University, Beijing, P. R. China."

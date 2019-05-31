@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "China"
-title                    : "Pinlong"
+title                    : "Pinlong Cai"
 title_separator          : "-"
 name                     : &name "Pinlong Cai"
 description              : &description "Ph.D student at Beijing Key Laboratory for Cooperative Vehicle Infrastructure Systems and Safety Control, Beihang University, Beijing, P. R. China."
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Pinlong Cai"
+  name             : "Pinlong"
   avatar           : "portrait.png"
   bio              : "Ph.D student at Beihang University, Beijing, P. R. China."
   location         : "Beijing, China"

@@ -5,7 +5,7 @@ permalink: /conferencepapers/2017-05-01-conference-paper-002
 excerpt: 'Authors: <b>Pinlong Cai</b>, Hao Chen*, Jingxin Zhang'
 date: 2017-05-01
 venue: '6th Data Driven Control and Learning Systems (DDCLS)'
-paperurl: 'https://trid.trb.org/view/1362247'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/8068063'
 citation: 'Cai P., Chen H., Zhang J. An adaptive multi-kernel RBF model using state matching. 6th Data Driven Control and Learning Systems (DDCLS), 2017.'
 ---
 

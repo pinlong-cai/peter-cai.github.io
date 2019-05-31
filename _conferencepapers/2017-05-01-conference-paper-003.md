@@ -5,7 +5,7 @@ permalink: /conferencepapers/2017-05-01-conference-paper-003
 excerpt: 'Authors: Jingxin Zhang, Hao Chen*, <b>Pinlong Cai</b>'
 date: 2017-05-01
 venue: '29th Chinese Control And Decision Conference (CCDC)'
-paperurl: 'https://trid.trb.org/view/1362247'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/7979025'
 citation: 'Zhang J., Chen H., Cai P. An adaptive multi-kernel RBF model using state matching. 29th Chinese Control And Decision Conference (CCDC), 2017.'
 ---
 

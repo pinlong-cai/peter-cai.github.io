@@ -2,7 +2,7 @@
 title: "Tunable and Transferable RBF Model for Short-Term Traffic Forecasting"
 collection: journalpapers
 permalink: /_publications/2018-11-journal-paper-002
-excerpt: 'Authors: <b>Pinlong Cai</b>, Yunpeng Wang, Guangquan Lu'
+excerpt: 'Authors: <b>Pinlong Cai</b>, Yunpeng Wang, Guangquan Lu*'
 date: 2018-11-01
 venue: 'IEEE Transactions on Intelligent Transportation Systems. Early Access.'
 paperurl: 'https://ieeexplore.ieee.org/document/8577030'

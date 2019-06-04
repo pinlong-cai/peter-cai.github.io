@@ -14,11 +14,11 @@ mathjax: true
 >可视化路漫漫，一步一个脚印往前走！
 
 # 写在前面
-最近一直在可视化的道路上不断前行，看书+码代码
-一开始是看浙大陈为他们写的《数据可视化》，了解可视化的一些基本知识
-然后是看可视化工具，Python可视化只是其中之一
-本文是基于[《Python数据可视化编程实战》](https://book.douban.com/subject/26378430/)内容总结的
-主要是关于Python可视化入门的基础内容，更多是以例子和程序来总结
+最近一直在可视化的道路上不断前行，看书+码代码<br>
+一开始是看浙大陈为他们写的《数据可视化》，了解可视化的一些基本知识<br>
+然后是看可视化工具，Python可视化只是其中之一<br>
+本文是基于[《Python数据可视化编程实战》](https://book.douban.com/subject/26378430/)内容总结的<br>
+主要是关于Python可视化入门的基础内容，更多是以例子和程序来总结<br>
 <!-- more -->
 
 # S1  环境设置
@@ -161,17 +161,17 @@ if __name__ == '__main__':
 
 # S7  用PIL做图像处理
 
-（1）PIL坐标系统原点（0，0）位于左上角；
-（2）im=Image.open(filename)：打开一个文件，并把图像加载在im对象上；
-（3）im.crop(box)：裁剪左、上、右、下像素内图像，box=(0, 100, 100, 100)；
-（4）im.filter(filter)：图像滤波；
-（5）im.histogram()：图像像素值直方图列表，单通道256个，双通道768个；
-（6）im.resize(size, filter)：重新调整图像大小，并且使用滤波器重新采样，滤波器可选NEAREST、BILINEAR、BICUBIC和ANTIALIAS，默认值为NEAREST。
-（7）im.rotate(angle, filter)：逆时针方向旋转图像；
-（8）im.split()：分离图像波段，可用于分离RGB图像为3个单独波段；
-（9）ImageChops.duplicate(image)：拷贝图像；
-（10）ImageChops.invert(image)：反转图像；
-（11）ImageChops.difference(image1, image2)：验证图像是否相同；
+（1）PIL坐标系统原点（0，0）位于左上角；<br>
+（2）im=Image.open(filename)：打开一个文件，并把图像加载在im对象上；<br>
+（3）im.crop(box)：裁剪左、上、右、下像素内图像，box=(0, 100, 100, 100)；<br>
+（4）im.filter(filter)：图像滤波；<br>
+（5）im.histogram()：图像像素值直方图列表，单通道256个，双通道768个；<br>
+（6）im.resize(size, filter)：重新调整图像大小，并且使用滤波器重新采样，滤波器可选NEAREST、BILINEAR、BICUBIC和ANTIALIAS，默认值为NEAREST。<br>
+（7）im.rotate(angle, filter)：逆时针方向旋转图像；<br>
+（8）im.split()：分离图像波段，可用于分离RGB图像为3个单独波段；<br>
+（9）ImageChops.duplicate(image)：拷贝图像；<br>
+（10）ImageChops.invert(image)：反转图像；<br>
+（11）ImageChops.difference(image1, image2)：验证图像是否相同；<br>
 
 # S8 火柴杆图绘制
 
@@ -204,6 +204,6 @@ plt.show()
 
 # 结语
 
-本文主要是关于Python常规作图的总结，主要用到的是matplotlib库
-Python可视化绘图虽然没有达到R语言的那种认可度，但个人认为还是略胜于matlab的
-在之后的学术研究、实践应用，可以考虑选择Python进行绘图
+本文主要是关于Python常规作图的总结，主要用到的是matplotlib库<br>
+Python可视化绘图虽然没有达到R语言的那种认可度，但个人认为还是略胜于matlab的<br>
+在之后的学术研究、实践应用，可以考虑选择Python进行绘图<br>

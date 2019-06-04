@@ -8,7 +8,7 @@ tags:
 tags: [知识积累,可视化]
 ---
 
-![We-all-love-Processing](\images\Processing-We-all-love-Processing.jpg)
+![We-all-love-Processing](../images/Processing-We-all-love-Processing.jpg)
 
 # 0  几句话概述
 Processing是为开发面向图形的应用而生的简单易用的编程语言和编程环境
@@ -30,7 +30,7 @@ Processing 是一个很棒的进行数据可视化的环境，具有简单的接
 Processing 运行于 GNU/Linux® 以及 Mac OS X 和 Windows® 上，并且支持将图像导出成各种格式
 对于动态应用程序，甚至可以将 Processing 应用程序作为 Java™ applet 导出以用在 Web 环境内
 
-![Processing3](\images\Processing-Processing3.jpg)
+![Processing3](../images/Processing-Processing3.jpg)
 
 # 2  如何安装Processing
 
@@ -40,11 +40,11 @@ Processing的工程也非常文艺地取名为“素描本”——Sketch
 Toolbar工具栏：运行和停止，模式选择：多种运行模式，默认为Java，还有Android和JavaScript等模式
 Console 控制台：黑色区域上方是信息区，运行时的PDE状态、出错信息等都会显示在这里，黑色区域是控制台
 
-![sketch](\images\Processing-sketch.jpg)
+![sketch](../images/Processing-sketch.jpg)
 
 # 3  绘制基本图形
 
-```processing
+```java
 void setup(){
   size(800, 300);//the size of the window
   // The upper left corner is (0, 0)
@@ -72,13 +72,13 @@ void draw(){
   arc(750,150,100,100,radians(45),radians(360));
 }
 ```
-![basic-graphs](\images\Processing-basic-graphs.jpg)
+![basic-graphs](../images/Processing-basic-graphs.jpg)
 
 # 4  绘制复杂图形
 
 ## (1)  针和线
 
-```processing 
+```java 
 size(480, 120);
 background(0);
 fill(255);
@@ -91,11 +91,11 @@ for (int y = 20; y <= height-20; y += 10) {
   }
 }
 ```
-![niddle-and-line](\images\Processing-niddle-and-line.jpg)
+![niddle-and-line](../images/Processing-niddle-and-line.jpg)
 
 ## (2)  响应鼠标
 
-```processing 
+```java 
 void setup() {
   size(480, 300);
   stroke(0, 102);
@@ -107,11 +107,11 @@ void draw() {
   line(mouseX, mouseY, pmouseX, pmouseY);
 }
 ```
-![corresponding-to-mouse](\images\Processing-corresponding-to-mouse.jpg)
+![corresponding-to-mouse](../images/Processing-corresponding-to-mouse.jpg)
 
 ## (3)  加载图片
 
-```processing
+```java
 //作者：鳥仟一·超傑   来源：知乎
 //链接：https://www.zhihu.com/question/27917305/answer/46652009
 PImage img;
@@ -219,7 +219,7 @@ void mousePressed(){
   save("apple2.png");
 }
 ```
-![apple](\images\Processing-apple.jpg)
+![apple](../images/Processing-apple.jpg)
 
 #  写在后面
 

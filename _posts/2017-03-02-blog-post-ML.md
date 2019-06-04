@@ -95,11 +95,11 @@ tags:
 
 &emsp;&emsp;在过去，机器学习的目标往往是关注经验风险最小化（Empirical Risk Minimization，ERM），即以训练样本误差最小化来衡量模型的好坏，从而无限增加模型的复杂度。然而随着模型复杂度增加，模型的泛化能力反而会下降，即出现了“过拟合”现象，而提高泛化能力要综合考虑模型的偏差（Bias）和方差（Variance）。以均方误差来（Mean Square error，MSE）来衡量模型的泛化误差的话，对于$Y=f(x)+e$，$e$是$N(0,\sigma_e)$分布的噪声干扰（白噪声），则模型泛化误差为：
 
-!['泛化误差'](\images\20170302-1.jpg.jpg)泛化误差
+!['泛化误差'](\images\20170302-1.jpg)泛化误差
   
 &emsp;&emsp;如图所示，随着模型的复杂度增加，虽然偏差会不断减小，但方差先减小后增大，模型的泛化误差也是先减小后增大，因此需要在“欠拟合”和“过拟合”之间寻找合适的模型复杂度。衡量模型的复杂度通常有AIC准则（Akalike Information Criterion）、BIC准则（Bayesian Information Criterion）等方法。
 
-!['过拟合'](\images\20170302-2.jpg.jpg)过拟合
+!['过拟合'](\images\20170302-2.jpg)过拟合
 
   *  （1）赤池信息量准则（Akalike Information Criterion，AIC准则）
 
@@ -124,7 +124,7 @@ $$L({\lambda _1},{\lambda _2},\beta ) = {\left| {y - X\beta } \right|^2} + {\lam
   
 &emsp;&emsp;这里，式子右边的第二、三项分别对应L1阶和L2阶范数。如果用形象化方式表达三者的关系，如图2所示。LASSO的特征选择方式的几何解释可以参考修正的<b>最小角回归（Least Angle Regression）</b>算法。由最残差相关系数最大的方向出发，随着前进步长增大，最优方向与残差的相关系数变小，直至找到次优参数方向，参数依次进入模型
 
-!['正则化'](\images\20170302-3.jpg.jpg)过拟合
+!['正则化'](\images\20170302-3.jpg)正则化
 
 # 2 优化算法
 ## 2.1 优化问题分类

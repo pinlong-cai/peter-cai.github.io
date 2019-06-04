@@ -210,9 +210,13 @@ print('运行时间共：%.2f'  % duration_time + '秒')
 print('共抓到%d本书名'%num, '详细内容见 bookCollect.csv')
 ```
 **运行结果：**
+
 命令框：
+
 ![爬取豆瓣书目](../images/PythonWebCrawler-爬取豆瓣书目.jpg)
+
 bookCollect.csv文件：
+
 ![爬取豆瓣书目csv](../images/PythonWebCrawler-爬取豆瓣书目csv.jpg)
 
 # 8  实战(2)：爬取淘女郎图片

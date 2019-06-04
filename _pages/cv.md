@@ -48,14 +48,14 @@ redirect_from:
 
 *Journal Papers*
 ------
-  <ul>{% for post in site.publications reversed %}
+  <ul>{% for post in site.journalpapers reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
  
 *Conference Papers*
 ------
-  <ul>{% for post in site.journalpapers reversed %}
+  <ul>{% for post in site.conferencepapers reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   

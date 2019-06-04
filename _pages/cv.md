@@ -46,6 +46,7 @@ redirect_from:
  
 # <a name="Publications"></a>Publications
 ======
+
 *Journal Papers*
 ------
   <ul>{% for post in site.journalpapers reversed %}

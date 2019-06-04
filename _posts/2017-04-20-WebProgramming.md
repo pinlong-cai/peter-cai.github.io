@@ -1,7 +1,7 @@
 ---
 title: 'Web编程基础知识'
-date: 2017-04-27
-permalink: /posts/2017-04-27-WebProgramming/
+date: 2017-04-20
+permalink: /posts/2017-04-20-WebProgramming/
 tags:
   - 知识积累
   - web
@@ -12,7 +12,7 @@ tags:
 mathjax: true
 ---
 
-!['Web-Programming'](../images/WebProgramming-Web-Programming.jpg)
+!['Web-Programming'](../images/Web-Programming.jpg)
 
 前段时间零零碎碎看了Web编程相关内容，今天就整理了一下
 Web编程，前端主要是html+CSS+JavaScript，后端使用最多的是PHP+MySQL

@@ -9,7 +9,7 @@ tags:
 mathjax: true
 ---
 
-!['Clustering'](./images/CFSFDP-Clustering.jpg)
+!['Clustering'](../images/CFSFDP-Clustering.jpg)
 
 >聚类分析又称聚类，是把一个数据集合划分为多个集群（cluster）的过程，使得相同集群内的数据之间具有相似性，不同集群的数据之间具有差异性。聚类是数据挖掘、统计分析的主要任务之一，应用于机器学习、模式识别、图像处理、信息检索、生物信息、数据压缩和计算机图像等领域。（From 维基百科）
 

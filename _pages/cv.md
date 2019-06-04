@@ -47,10 +47,10 @@ redirect_from:
 # <a name="Publications"></a>Publications
 ======
   <ul>{% for post in site.publications reversed %} 
-    {% include my-archive-single.html %} 
+    {% include archive-single.html %} 
   {% endfor %}</ul>
   <ul>{% for post in site.conferencepapers reversed %} 
-    {% include my-archive-single.html %} 
+    {% include archive-single.html %} 
   {% endfor %}</ul>
   
   

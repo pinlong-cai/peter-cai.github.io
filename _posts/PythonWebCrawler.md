@@ -1,7 +1,7 @@
 ---
 title: 'python网络爬虫'
 date: 2017-04-21
-permalink: /posts/2017-04-21-blog-post-PythonWebCrawler/
+permalink: /posts/PythonWebCrawler/
 tags:
   - 知识积累
   - Python

@@ -1,7 +1,7 @@
 ---
 title: "COMPOSITE CONTROL STRATEGY FOR SHARING HUMAN-DRIVEN AND AUTONOMOUS VEHICLE INTERSECTIONS"
 collection: talks
-type: "Tutorial"
+type: "Presentation"
 permalink: /talks/2019-01-27-talk-3
 venue: "97th Annual Meeting of the Transportation Research Board"
 date: 2019-01-27

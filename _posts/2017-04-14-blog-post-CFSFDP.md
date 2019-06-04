@@ -24,7 +24,7 @@ mathjax: true
 <!-- more -->
 &emsp;&emsp;根据聚类的数据特征应合理选用聚类算法。如图1所示，包含球形集群和非球形集群两幅典型示意图，在球形集群中，数据集相对集中，且无空间分布规律特征，这时候常常采用K-means、K-medoids、Gaussian Mixture Model等方法来聚类。而对于非球形集群，数据点分布具有空间特征，图1（b）所示的是具有三个集群的数据集，三个集群的数据点分布呈现类渐开线特征，这时就不能采用传统的聚类方法，而应选择Spectral Clustering、Normalised-Cut、DBSCAN和CFSFDP等等。
 
-!['图1'](\images\CFSFDP-图1.jpg)图1
+!['图1'](../images/CFSFDP-图1.jpg)图1
 
 # 2  CFSFDP聚类算法
 
@@ -67,15 +67,14 @@ $$H=-\sum_{i=1}^n\frac{\phi_i}{Z}\ln{\frac{\phi_i}{Z}}$$
 
 &emsp;&emsp;Zhang等人提出CFSFDP算法不适用与一些特殊的数据集，例如图4所示的数据集合。这个数据集其实是由三个数据集群组成的，外围集群、内左集群和内右集群，但是Zhang等人用CFSFDP算法来聚类，尝试用不同的$d_c$值，都难以得到好的聚类结果，如图5所示。因此，他们研究了改进的策略。
 
-!['图4'](\images\CFSFDP-图4.jpg)图4
+!['图4'](../images/CFSFDP-图4.jpg)图4
 
-!['图5'](\images\CFSFDP-图5.jpg)图5
+!['图5'](../images/CFSFDP-图5.jpg)图5
 
 &emsp;&emsp;Zhang等人的改进策略是受Chameleon模型启发，该模型的基本思想如图6所示，包括三个步骤，一是将数据集合用k近邻图的方法，组成稀疏图，而是将稀疏图打散分成若干个小类，三是重新组合，得到最后的聚类结果。
-<div align=center>
-<img src="..\images\CFSFDP-图6.jpg" /> 图6
-<p>图6</p>  
-</div>
+
+!['图6'](../images/CFSFDP-图6.jpg)图6
+
 &emsp;&emsp;Chameleon算法定义了两个概念，相对互关联（Relative inner-connectivity）代表小类之间的连接区域强度的总和，相对紧密度（Relative closeness）则代表小类之间的连接区域强度的平均值。两个指标都有相应的公式，并进行标准化，然后结合两个指标来合并小类。
 借助这种思想，Zhang等人设置较小的$d_c$，然后用CFSFDP聚成数目较多的小类，之后再合并成集群，图7所示即为他们文中的实验。先讲两个U型集群组成的数据划分为若干个小类，再用Chameleon算法来合并小类，最终得到结果。
 
@@ -83,7 +82,7 @@ $$H=-\sum_{i=1}^n\frac{\phi_i}{Z}\ln{\frac{\phi_i}{Z}}$$
 
 &emsp;&emsp;Gao等人在文章中总结了CFSFDP算法在实际应用中遇到的问题：
 
-!['图7'](\images\CFSFDP-图7.jpg)图7
+!['图7'](../images/CFSFDP-图7.jpg)图7
 
 * （1）截断距离dc需要依靠先验经验确定；
 * （2）集群中心选择需要主观地从决策图中选择；
@@ -92,15 +91,15 @@ $$H=-\sum_{i=1}^n\frac{\phi_i}{Z}\ln{\frac{\phi_i}{Z}}$$
 
 &emsp;&emsp;Gao等人在文中提出了改进的模型ICFS，模型的具体步骤如图8所示，分成：预聚类、合并、拆分三个阶段。
 
-!['图8'](\images\CFSFDP-图8.jpg)图8
+!['图8'](../images/CFSFDP-图8.jpg)图8
 
 &emsp;&emsp;预聚类阶段，他们重新定义了$d_c$的确定公式、中心的选择方式和分配策略。其中，中心的选择方式是在原有算法利用$\delta$和$\rho$乘积的形式，将得到$\gamma$值从大到小排列，然后分别再乘以密度$\rho$，将新的决策图（decision graph）与原有的决策图对比，从新的$\gamma^\prime$值开始，第一次出现阶跃点（Bump point）的时候，即有$\gamma_k^\prime>\gamma_{k+1}^\prime\&\gamma_k^\prime>\gamma_{k-1}^\prime$，则将1到k所以数据点作为中心，这个过程如图9所示。
 
-!['图9'](\images\CFSFDP-图9.jpg)图9
+!['图9'](../images/CFSFDP-图9.jpg)图9
 
 &emsp;&emsp;分配策略改变原有的“从属最近的较高密度点”分配，而是“使非中心点优先从属于最近的相同密度点”，如图10所示。然而这种分配方式也不完全合理，在对于相同密度的A和B，先分配A或者先分配B得到的结果是不同的。
 
-!['图10'](\images\CFSFDP-图10.jpg)图10
+!['图10'](../images/CFSFDP-图10.jpg)图10
 
 &emsp;&emsp;完成预聚类之后，Gao等人也提出了类合并和拆分的策略，合并是根据最近邻图的方法，而拆分则是根据“同一类中不能同时含有两个阶跃点”的准则。
 

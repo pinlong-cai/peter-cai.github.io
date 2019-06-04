@@ -339,5 +339,7 @@ if __name__ == '__main__':
 
 ```
 **运行结果：**
+
 本地photo文件夹：
+
 ![淘女郎](../images/PythonWebCrawler-爬取淘女郎.jpg)

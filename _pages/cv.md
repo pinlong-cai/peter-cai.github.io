@@ -48,7 +48,7 @@ redirect_from:
 
 *Journal Papers*
 ------
-  <ul>{% for post in site.journalpapers reversed %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   

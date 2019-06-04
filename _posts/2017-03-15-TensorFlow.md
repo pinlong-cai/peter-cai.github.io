@@ -89,7 +89,7 @@ DBN包含三个步骤：AutoEncoder的无监督训练；提取特征并初始化
 !['AutoEncoder'](../images/tensorflow-AutoEncoder.jpg)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**AutoEncoder模型结构**<br>
 !['Images recontruction'](../images/tensorflow-Images-recontruction.jpg)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**手写数字图像重构训练数据和输出结果*<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**手写数字图像重构训练数据和输出结果**<br>
 
 3. <font size=4>**Multi-layer Perceptron**</font>
 

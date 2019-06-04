@@ -35,7 +35,7 @@ Jan 2017 - present
 
 [wyp]: https://www.buaa.edu.cn/info/1545/1743.htm
 
-[tdx]: http://shi.buaa.edu.cn/luguangquan/zh_CN/zsxx/10329/list/index.htm
+[lgq]: http://shi.buaa.edu.cn/luguangquan/zh_CN/zsxx/10329/list/index.htm
 
 
 

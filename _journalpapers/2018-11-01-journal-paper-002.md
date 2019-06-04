@@ -6,7 +6,7 @@ excerpt: 'Authors: <b>Pinlong Cai</b>, Yunpeng Wang, Guangquan Lu*'
 date: 2018-11-01
 venue: 'IEEE Transactions on Intelligent Transportation Systems. Early Access.'
 paperurl: 'https://ieeexplore.ieee.org/document/8577030'
-citation: 'Cai P., Wang Y., Lu G., Tunable and Transferable RBF Model for Short-Term Traffic Forecasting, IEEE Transactions on Intelligent Transportation Systems. Early Access, doi: 10.1109/TITS.2018.2882814'
+citation: 'Cai P., Wang Y., Lu G., Tunable and Transferable RBF Model for Short-Term Traffic Forecasting, IEEE Transactions on Intelligent Transportation Systems. Early Access, doi: 10.1109/TITS.2018.2882814.'
 ---
 
 

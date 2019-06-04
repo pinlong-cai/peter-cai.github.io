@@ -22,7 +22,7 @@ redirect_from:
 * M.S. in Traffic Information Engineering and Control, Beihang University, 2016
 * Ph.D in Traffic Information Engineering and Control, Beihang University, 2020 (expected)
 
-# <a name="Workexperience"></a>Work experience
+# <a name="Workexperience"></a>Work Experiences
 
 * Summer 2015: Research Assistant
   * Beijing Transport Institute
@@ -72,14 +72,14 @@ redirect_from:
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>  
   
-# <a name="Awards & Honors"></a>AwardsAndHonors
+# <a name="AwardsAndHonors"></a>Awards & Honors
 * The Excellent graduates/Outstanding Master's Thesis/Excellent graduate students of Beihang University (2009/2013/2018)
 *  The First-class Scholarship for Doctoral Students Offered by Beihang University (2018)
-* The Model Research Student Award of the Beijing Key Laboratory for Cooperative Vehicle-Infrastructure Systems and Safety Control(2016)
+* The Model Research Student Award of the Beijing Key Laboratory for Cooperative Vehicle-Infrastructure Systems and Safety Control (2016)
 * The Excellent Volunteers for the Volunteer Service Activities of the Western Warmth Project (2014)
 
 
-# <a name="Serviceandleadership"></a>Service and leadership
+# <a name="Serviceandleadership"></a>Service & leadership
 
 * Secretary of Student Party Branch (Three times, Doctoral Class, 2017-2018, Department of transportation, 2014-2015 & 2018-present)
 * Finance Minister/Vice President of Nan'an Students' Association of Beijing University (2010-2012)

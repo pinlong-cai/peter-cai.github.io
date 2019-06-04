@@ -10,7 +10,7 @@ tags:
 
 <div align=center>
 <img src="https://github.com/peter-cai/peter-cai.github.io/blob/master/images/20170302-Algorithm World.jpg" /> 
-</div>
+ </div>
 
 >机器学习（Machine Learning，ML）是一门多领域交叉学科，涉及概率统计、非线性优化、信息论、人工智能、计算复杂性和控制论等多门学科。目的是用计算机模拟或实现人类的学习行为，随着经验积累自动提高性能。
 
@@ -100,14 +100,14 @@ tags:
 <div align=center>
 <img src="https://github.com/peter-cai/peter-cai.github.io/blob/master/images/20170302-1.jpg" /> 
 <p>泛化误差</p>    
-</div>
+ </div>
   
 &emsp;&emsp;如图所示，随着模型的复杂度增加，虽然偏差会不断减小，但方差先减小后增大，模型的泛化误差也是先减小后增大，因此需要在“欠拟合”和“过拟合”之间寻找合适的模型复杂度。衡量模型的复杂度通常有AIC准则（Akalike Information Criterion）、BIC准则（Bayesian Information Criterion）等方法。
 
 <div align=center>
 <img src="https://github.com/peter-cai/peter-cai.github.io/blob/master/images/20170302-2.jpg" /> 
 <p>过拟合</p>    
-</div>
+ </div>
 
   *  （1）赤池信息量准则（Akalike Information Criterion，AIC准则）
 
@@ -135,7 +135,7 @@ $$L({\lambda _1},{\lambda _2},\beta ) = {\left| {y - X\beta } \right|^2} + {\lam
 <div align=center>
 <img src="https://github.com/peter-cai/peter-cai.github.io/blob/master/images/20170302-3.jpg" /> 
 <p>正则化</p>    
-</div>
+ </div>
 
 # 2 优化算法
 ## 2.1 优化问题分类

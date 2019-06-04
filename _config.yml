@@ -187,6 +187,15 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  journalpapers:
+    output: true
+    permalink: /:collection/:path/
+  conferencepapers:
+    output: true
+    permalink: /:collection/:path/
+  patents:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults

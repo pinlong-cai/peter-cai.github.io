@@ -11,34 +11,34 @@ tags: [知识积累,可视化]
 ![We-all-love-Processing](../images/Processing-We-all-love-Processing.jpg)
 
 # 0  几句话概述
-Processing是为开发面向图形的应用而生的简单易用的编程语言和编程环境
-特点是算法动画和即时交互，应用于复杂数据可视化、视觉设计和原型开发
-Processing是基于Java开发的，但代码不同于Java，使用时需要先配置Java环境
-Processing 的工程界面是Sketch（代码素描本），文件格式.Pde，
-支持多运行模式:Java模式输出桌面应用，Android模式输出安卓程序，JavaScript输出嵌入Web的Applet
-Setup()设定窗口大小；draw()绘制图像；右键函数有官方文档；“//”用来注释代码
+Processing是为开发面向图形的应用而生的简单易用的编程语言和编程环境<br>
+特点是算法动画和即时交互，应用于复杂数据可视化、视觉设计和原型开发<br>
+Processing是基于Java开发的，但代码不同于Java，使用时需要先配置Java环境<br>
+Processing 的工程界面是Sketch（代码素描本），文件格式.Pde，<br>
+支持多运行模式:Java模式输出桌面应用，Android模式输出安卓程序，JavaScript输出嵌入Web的Applet<br>
+Setup()设定窗口大小；draw()绘制图像；右键函数有官方文档；“//”用来注释代码<br>
 <!-- more -->
 
 # 1  认识Processing
 
-Processing 在 2001 年诞生于麻省理工学院（MIT）的媒体实验室，主创者为 Ben Fry 和 Casey Reas，
-此外，来自Carnegie Mellon、洛杉矶的加利福尼亚大学以及迈阿密大学等学者也做出了贡献
-Processing 的最初目标是开发图形的 sketchbook 和环境，用来形象地教授计算机科学的基础知识
-之后，它逐渐演变成了可用于创建图形可视化专业项目的一种环境
-如今，围绕它已经形成了一个专门的社区，致力于构建各种库以供用这种语言和环境进行动画、可视化、网络编程以及很多其他的应用
-Processing 是一个很棒的进行数据可视化的环境，具有简单的接口、功能强大的语言以及一套丰富的用于数据以及应用程序导出的机制
-Processing 运行于 GNU/Linux® 以及 Mac OS X 和 Windows® 上，并且支持将图像导出成各种格式
-对于动态应用程序，甚至可以将 Processing 应用程序作为 Java™ applet 导出以用在 Web 环境内
+Processing 在 2001 年诞生于麻省理工学院（MIT）的媒体实验室，主创者为 Ben Fry 和 Casey Reas，<br>
+此外，来自Carnegie Mellon、洛杉矶的加利福尼亚大学以及迈阿密大学等学者也做出了贡献<br>
+Processing 的最初目标是开发图形的 sketchbook 和环境，用来形象地教授计算机科学的基础知识<br>
+之后，它逐渐演变成了可用于创建图形可视化专业项目的一种环境<br>
+如今，围绕它已经形成了一个专门的社区，致力于构建各种库以供用这种语言和环境进行动画、可视化、网络编程以及很多其他的应用<br>
+Processing 是一个很棒的进行数据可视化的环境，具有简单的接口、功能强大的语言以及一套丰富的用于数据以及应用程序导出的机制<br>
+Processing 运行于 GNU/Linux® 以及 Mac OS X 和 Windows® 上，并且支持将图像导出成各种格式<br>
+对于动态应用程序，甚至可以将 Processing 应用程序作为 Java™ applet 导出以用在 Web 环境内<br>
 
 ![Processing3](../images/Processing-Processing3.jpg)
 
 # 2  如何安装Processing
 
-配置Java环境，JDK包下载：<u>http://java.sun.com</u>，环境配置教程：<u>http://wenku.baidu.com/view/a2e732caa1c7aa00b52acb9b.html</u>
-Processing最新版本下载地址：<u>http://processing.org/download</u>，解压文件，打开processing.exe即可开始使用
-Processing的工程也非常文艺地取名为“素描本”——Sketch
-Toolbar工具栏：运行和停止，模式选择：多种运行模式，默认为Java，还有Android和JavaScript等模式
-Console 控制台：黑色区域上方是信息区，运行时的PDE状态、出错信息等都会显示在这里，黑色区域是控制台
+配置Java环境，JDK包下载：<u>http://java.sun.com</u>，环境配置教程：<u>http://wenku.baidu.com/view/a2e732caa1c7aa00b52acb9b.html</u><br>
+Processing最新版本下载地址：<u>http://processing.org/download</u>，解压文件，打开processing.exe即可开始使用<br>
+Processing的工程也非常文艺地取名为“素描本”——Sketch<br>
+Toolbar工具栏：运行和停止，模式选择：多种运行模式，默认为Java，还有Android和JavaScript等模式<br>
+Console 控制台：黑色区域上方是信息区，运行时的PDE状态、出错信息等都会显示在这里，黑色区域是控制台<br>
 
 ![sketch](../images/Processing-sketch.jpg)
 
@@ -224,5 +224,5 @@ void mousePressed(){
 #  写在后面
 
 Processing是我偶然看到[城室科技 | CitoryTech](https://zhuanlan.zhihu.com/citorytech?topic=%E5%8D%B0%E5%BA%A6)的文章，文中作者提到的可视化软件
-通过查找相关资料，看到了Processing的功能特别适合算法可视化和交互设计就喜欢上了
-总而言之，Processing是一款有趣的可视化软件，轻编程重设计，很好很强大
+通过查找相关资料，看到了Processing的功能特别适合算法可视化和交互设计就喜欢上了<br>
+总而言之，Processing是一款有趣的可视化软件，轻编程重设计，很好很强大<br>

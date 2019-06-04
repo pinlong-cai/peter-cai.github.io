@@ -13,6 +13,7 @@ redirect_from:
 + [Skills](#Skills)
 + [Publications](#Publications)
 + [Talks](#Talks)
++ [Awards & Honors](#AwardsAndHonors)
 + [Service and leadership](#Serviceandleadership)
 
 # <a name="Education"></a>Education
@@ -71,8 +72,14 @@ redirect_from:
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>  
   
+# <a name="Awards & Honors"></a>AwardsAndHonors
+* The Excellent graduates/Outstanding Master's Thesis/Excellent graduate students of Beihang University (2009/2013/2018)
+*  The First-class Scholarship for Doctoral Students Offered by Beihang University (2018)
+* The Model Research Student Award of the Beijing Key Laboratory for Cooperative Vehicle-Infrastructure Systems and Safety Control(2016)
+* The Excellent Volunteers for the Volunteer Service Activities of the Western Warmth Project (2014)
+
+
 # <a name="Serviceandleadership"></a>Service and leadership
 
 * Secretary of Student Party Branch (Three times, Doctoral Class, 2017-2018, Department of transportation, 2014-2015 & 2018-present)
-* Excellent Volunteers for the Volunteer Service Activities of the Western Warmth Project (2014)
 * Finance Minister/Vice President of Nan'an Students' Association of Beijing University (2010-2012)

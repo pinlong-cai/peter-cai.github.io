@@ -8,7 +8,7 @@ tags:
 mathjax: true
 ---
 
-!['统计寓于生活'](\images\Parzen Window-统计寓于生活.jpg)
+!['统计寓于生活'](../images/Parzen Window-统计寓于生活.jpg)
 
 >kernel density estimation是在概率论中用来估计未知的密度函数，属于非参数检验方法之一，由Rosenblatt (1955)和Emanuel Parzen(1962)提出，又名Parzen窗（Parzen window）
 本文翻译自英国雷丁大学（Reading University）Xia Hong老师的[讲义材料](http://www.personal.rdg.ac.uk/~sis01xh/teaching/CY2D2/Pattern2.pdf)
@@ -24,13 +24,13 @@ mathjax: true
 
 最常见的概率函数是高斯函数（Gaussian Function，又称为正态分布）：$p(x)=\frac{1}{\sqrt{2\pi\sigma}}\exp(-\frac{(x-c)^2}{2\sigma^2})$，这里$c$是均值，$\sigma$是标准差
 
-!['Guassian-Function'](\images\Parzen Window-Guassian-Function.jpg)
+!['Guassian-Function'](../images/Parzen Window-Guassian-Function.jpg)
 
 拓展到对于向量$\mathbf{x}$，非负函数$p(\mathbf{x})$有以下特性：
 1. $\mathbf{x}$在区域$R$里的概率为$P=\int_R p(\mathbf{x})d\mathbf{x}$
 2. 概率函数的积分为$\int p(\mathbf{x})d\mathbf{x}=1$
 
-!['2D-Gaussian-pdf'](\images\Parzen Window-2D-Gaussian-pdf.jpg)
+!['2D-Gaussian-pdf'](../images/Parzen Window-2D-Gaussian-pdf.jpg)
 
 # 密度估计
 
@@ -43,7 +43,7 @@ mathjax: true
 
 考虑$R$是中心在$\mathbf{x}$的超立方体（例如二维平面），令$h$为超立方体的边缘长度，所以对于二维平面有有$V=h^2$，对于三维立体有$V=h^3$
 
-!['Parzen-Window'](\images\Parzen Window-Parzen-Window.jpg)
+!['Parzen-Window'](../images/Parzen Window-Parzen-Window.jpg)
 
 引入$\phi(\frac{\mathbf{x}_i-\mathbf{x}}{h})=\left\{
 \begin{aligned}
@@ -69,6 +69,6 @@ $\frac{1}{\sqrt{2\pi}}\exp(-\frac{(x_5-x)^2}{2})=\frac{1}{\sqrt{2\pi}}\exp(-\fra
 ----
 下面用图形化语言表示Parzen窗，每个数据点密度函数（虚线）对于最终的概率密度函数（实线）有相同的贡献度
 
-!['lines-of-data-points'](\images\Parzen Window-lines-of-data-points.jpg)
+!['lines-of-data-points'](../images/Parzen Window-lines-of-data-points.jpg)
 
-!['line-of-pdf'](\images\Parzen Window-line-of-pdf.jpg)
+!['line-of-pdf'](../images/Parzen Window-line-of-pdf.jpg)

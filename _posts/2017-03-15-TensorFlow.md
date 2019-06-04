@@ -127,16 +127,13 @@ CNN的发展现在有两个方向：网络结构优化和网络深度增加<br>
 TensorBoard是TensorFlow官方推出的可视化工具，展示模型训练过程的汇总数据（标量/图片/音频/计算图/数据分布/直方图/嵌入向量）<br>
 TensorBoard是将计算过程中的数据汇总记录在日志文件中，然后解析数据生产可视化的web界面（目前仅支持Linux系统的Chrome）<br>
 
-!['TensorBoard界面'](../images/tensorflow-TensorBoard界面.jpg)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**TensorBoard界面**
-<table frame=void;border='0' >
-    <tr><th>
-        !['计算图'](../images/tensorflow-计算图.jpg) 
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**计算图** 
-    </th><th>   
-        !['数据可视化'](../images/tensorflow-数据可视化.jpg) 
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**数据可视化**
-    </th></tr>
-</table>
+!['TensorBoard界面'](../images/tensorflow-TensorBoard界面.jpg)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**TensorBoard界面**<br>
+!['计算图'](../images/tensorflow-计算图.jpg) <br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**计算图** <br>
+
+!['数据可视化'](../images/tensorflow-数据可视化.jpg) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**数据可视化**<br>
+
 
 

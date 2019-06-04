@@ -1,6 +1,6 @@
 ---
 title: 'CFSFDP聚类算法'
-date: 2015-08-14
+date: 2017-04-14
 permalink: /posts/2017-04-14-blog-post-CFSFDP/
 tags:
   - 知识积累

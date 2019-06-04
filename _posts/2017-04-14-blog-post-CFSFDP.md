@@ -87,10 +87,10 @@ Gao等人在文章中总结了CFSFDP算法在实际应用中遇到的问题：
 !['Figure 7'](\images\20170414-图7.jpg)
 图7
 </div>
-（1）截断距离dc需要依靠先验经验确定；
-（2）集群中心选择需要主观地从决策图中选择；
-（3）相同的高密度峰会算法会失效；
-（4）算法无法应用与特殊的数据集。
+* （1）截断距离dc需要依靠先验经验确定；
+* （2）集群中心选择需要主观地从决策图中选择；
+* （3）相同的高密度峰会算法会失效；
+* （4）算法无法应用与特殊的数据集。
 
 Gao等人在文中提出了改进的模型ICFS，模型的具体步骤如图8所示，分成：预聚类、合并、拆分三个阶段。
 <div align=center>
@@ -105,6 +105,7 @@ Gao等人在文中提出了改进的模型ICFS，模型的具体步骤如图8所
 分配策略改变原有的“从属最近的较高密度点”分配，而是“使非中心点优先从属于最近的相同密度点”，如图10所示。然而这种分配方式也不完全合理，在对于相同密度的A和B，先分配A或者先分配B得到的结果是不同的。
 <div align=center>
 !['Figure 10'](\images\20170414-图10.jpg)
+<img src="\images\20170414-图10.jpg" /> 
 图10
 </div>
 完成预聚类之后，Gao等人也提出了类合并和拆分的策略，合并是根据最近邻图的方法，而拆分则是根据“同一类中不能同时含有两个阶跃点”的准则。
@@ -113,9 +114,9 @@ Gao等人在文中提出了改进的模型ICFS，模型的具体步骤如图8所
 聚类算法在数据挖掘中是常用且重要的算法，但应用数据集特征不同，可能要先挑选合适的算法。CFSFDP算法是新颖的基于密度的聚类算法，给我们提供了一种新的聚类思路，方式具有普适性，得到不少学者的认可。然而，算法的本身的参数阈值确定和逻辑规则还有待改进。当然，改进算法也不是越复杂越好，太过于复杂的算法可能就会失去普适性，因此，改进策略需要在后续研究中进一步尝试。
 
 # 参考文献
-[1] Alex Rodriguez and Alessandro Laio. Clustering by fast search and find of density peaks. Science 344, 1492 (2014).
-[2] Wang S, Wang D, Li C, et al. Comment on "Clustering by fast search and find of density peaks". Computer Science, 2015.
-[3] Wang S, Wang D, Li C, et al. Clustering by fast search and find of density peaks with data field. Chinese Journal of Electronics, 2016, 25(3):1492-6.
-[4] Zhang W, Li J. Extended fast search clustering algorithm: widely density clusters, no density peaks. Computer Science, 2015.
-[5] Karypis G, Han E H, Kumar V. Chameleon: hierarchical clustering using dynamic modeling. Computer, 1999, 32(8):68-75.
-[6] Gao J, Zhao L, Chen Z, et al. ICFS: An improved fast search and find of density peaks clustering. 2016 IEEE 14th Intl Conf on Dependable, Autonomic and Secure Computing, 14th Intl Conf on Pervasive Intelligence and Computing, 2nd Intl Conf on Big Data Intelligence and Computing and Cyber Science and Technology Congress. 2016:537-543.
+* [1] Alex Rodriguez and Alessandro Laio. Clustering by fast search and find of density peaks. Science 344, 1492 (2014).
+* [2] Wang S, Wang D, Li C, et al. Comment on "Clustering by fast search and find of density peaks". Computer Science, 2015.
+* [3] Wang S, Wang D, Li C, et al. Clustering by fast search and find of density peaks with data field. Chinese Journal of Electronics, 2016, 25(3):1492-6.
+* [4] Zhang W, Li J. Extended fast search clustering algorithm: widely density clusters, no density peaks. Computer Science, 2015.
+* [5] Karypis G, Han E H, Kumar V. Chameleon: hierarchical clustering using dynamic modeling. Computer, 1999, 32(8):68-75.
+* [6] Gao J, Zhao L, Chen Z, et al. ICFS: An improved fast search and find of density peaks clustering. 2016 IEEE 14th Intl Conf on Dependable, Autonomic and Secure Computing, 14th Intl Conf on Pervasive Intelligence and Computing, 2nd Intl Conf on Big Data Intelligence and Computing and Cyber Science and Technology Congress. 2016:537-543.

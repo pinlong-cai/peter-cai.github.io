@@ -73,6 +73,6 @@ redirect_from:
   
 # <a name="Serviceandleadership"></a>Service and leadership
 
-* Secretary of Student Party Branch (Doctoral Class 2017-2018/Professional Vertical 2014-2015-2018 to present)
+* Secretary of Student Party Branch (Three times, Doctoral Class, 2017-2018, Department of transportation, 2014-2015 & 2018-present)
 * Excellent Volunteers for the Volunteer Service Activities of the Western Warmth Project (2014)
-* Finance Minister/Vice President of Nan'an Students'Association of Beijing University (2010-2012)
+* Finance Minister/Vice President of Nan'an Students' Association of Beijing University (2010-2012)

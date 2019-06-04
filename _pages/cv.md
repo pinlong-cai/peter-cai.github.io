@@ -49,6 +49,9 @@ redirect_from:
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  <ul>{% for post in site.conferencepapers reversed %} 
+    {% include my-archive-single.html %} 
+  {% endfor %}</ul>
   
   
 # <a name="Talks"></a>Talks

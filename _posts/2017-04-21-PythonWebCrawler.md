@@ -14,8 +14,8 @@ mathjax: true
 >——问：“如何完成《大卫》这样杰出的作品”
 ——米开朗基罗答：“很简单，只要用锤子把石头上不像大卫的地方敲掉就可以了！”
 
-采集信息用的程序一般被称为网络爬虫（ Web crawler）、网络铲（ Web scraper，可类比考古用的洛阳铲）、网络蜘蛛（ Web spider），其行为一般是先“爬”到对应的网页上，再把需要的信息“铲”下来。网络数据采集是普通大众细纹乐见的计算机巫术，在信息爆炸的时代，互联网上充斥着大量信息，网络爬虫是获取网络上的信息资源的有效手段。
-Python在爬虫编程上有 urllib、BeautifulSoup、 lxml、Scrapy、 PdfMiner、 Requests、 Selenium、 NLTK、 Pillow、 unittest、 PySocks 等模块，对于爱好Python的编程者来说，爬虫必然得学。
+采集信息用的程序一般被称为网络爬虫（ Web crawler）、网络铲（ Web scraper，可类比考古用的洛阳铲）、网络蜘蛛（ Web spider），其行为一般是先“爬”到对应的网页上，再把需要的信息“铲”下来。网络数据采集是普通大众细纹乐见的计算机巫术，在信息爆炸的时代，互联网上充斥着大量信息，网络爬虫是获取网络上的信息资源的有效手段。<br>
+Python在爬虫编程上有 urllib、BeautifulSoup、 lxml、Scrapy、 PdfMiner、 Requests、 Selenium、 NLTK、 Pillow、 unittest、 PySocks 等模块，对于爱好Python的编程者来说，爬虫必然得学。<br>
 
 <!-- more -->
 
@@ -53,9 +53,9 @@ nameList = bsObj.findAll("span", {"class":"green"})
 for name in nameList:
     print(name.get_text())
 ```
-find(tag, arributes, recursive, text, limit, key words)
-findall(tag, arributes, recursive, text, keywords)
-find()只读取一个，findall()读取所有内容
+find(tag, arributes, recursive, text, limit, key words)<br>
+findall(tag, arributes, recursive, text, keywords)<br>
+find()只读取一个，findall()读取所有内容<br>
 # 3  Regex正则表达式
 
 `*`：重复任意次，`(|)`：或，`+`：出现多次，且至少1次，`\`：转义

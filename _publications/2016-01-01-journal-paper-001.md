@@ -3,7 +3,7 @@ title: "A Spatiotemporal Correlative K-Nearest Neighbor Model for Short-Term Tra
 collection: journalpapers
 permalink: /journalpapers/2016-01-journal-paper-001
 excerpt: 'Authors: <b>Pinlong Cai</b>, Yunpeng Wang, Guangquan Lu*, Peng Chen, Chuan Ding, Jianping Sun'
-date: 2016-01
+date: 2016-01-01
 venue: 'Transportation Research Part C: Emerging Technologies. vol. 62, pp. 21-34.'
 paperurl: 'http://www.sciencedirect.com/science/article/pii/S0968090X15003812'
 citation: 'Cai P., Wang Y., Lu G., Chen P., Ding C., Sun J. A spatiotemporal correlative k-nearest neighbor model for short-term traffic multi-step forecasting. Transportation Research Part C: Emerging Technologies, 2016, 62: 21-34.'

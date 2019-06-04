@@ -55,7 +55,7 @@ redirect_from:
  
 *Conference Papers*
 ------
-  <ul>{% for post in site.conferencepapers reversed %}
+  <ul>{% for post in site.journalpapers reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   

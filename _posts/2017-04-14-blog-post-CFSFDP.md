@@ -8,9 +8,8 @@ tags:
   - 算法
 mathjax: true
 ---
-<div align=center>
-<img src="..\images\CFSFDP-Clustering.jpg" /> 
-</div>
+
+!['Clustering'](\images\CFSFDP-Clustering.jpg)
 
 >聚类分析又称聚类，是把一个数据集合划分为多个集群（cluster）的过程，使得相同集群内的数据之间具有相似性，不同集群的数据之间具有差异性。聚类是数据挖掘、统计分析的主要任务之一，应用于机器学习、模式识别、图像处理、信息检索、生物信息、数据压缩和计算机图像等领域。（From 维基百科）
 
@@ -25,10 +24,7 @@ mathjax: true
 <!-- more -->
 &emsp;&emsp;根据聚类的数据特征应合理选用聚类算法。如图1所示，包含球形集群和非球形集群两幅典型示意图，在球形集群中，数据集相对集中，且无空间分布规律特征，这时候常常采用K-means、K-medoids、Gaussian Mixture Model等方法来聚类。而对于非球形集群，数据点分布具有空间特征，图1（b）所示的是具有三个集群的数据集，三个集群的数据点分布呈现类渐开线特征，这时就不能采用传统的聚类方法，而应选择Spectral Clustering、Normalised-Cut、DBSCAN和CFSFDP等等。
 
-<div align=center>
-<img src="..\images\CFSFDP-图1.jpg" /> 
-<p>图1</p>  
-</div>
+!['图1'](\images\CFSFDP-图1.jpg)图1
 
 # 2  CFSFDP聚类算法
 
@@ -48,18 +44,12 @@ $$
 
 &emsp;&emsp;在文中的例子中，数据集如图2（a）所示，分别计算出$\delta$和$\rho$，在所有的数据点中，有四种点，一是$\delta$大$\rho$大的点，包括1和10；二是$\delta$大$\rho$小的点，包括28，26，27；三是$\delta$小$\rho$大，包括7，8，3，4等等，四是$\delta$小$\rho$小，其余点都是这个类别。很明显，第一种点即为集群的中心，第二类则是离群点。文章中提到定义一个指标来选择中心，用$\delta$和$\rho$乘积的形式：
 
-<div align=center>
-<img src="..\images\CFSFDP-图2.jpg" /> 
-<p>图2</p>  
-</div>
+!['图2'](\images\CFSFDP-图2.jpg)图2
 
 &emsp;&emsp;在确定数个中心之后，其余数据点按照密度大小，依次从属于距离最近的密度大于其自身的点。
 &emsp;&emsp;根据该聚类算法的步骤，我自己设计了类渐开线数据集的聚类实验，聚类结果如图3所示。图3（a）是K-means的聚类结果，很明显这种方法未能实现非球形聚集的聚类问题，而CFSFDP算法则能够实现目标。然而，在实验中发现参数$d_c$的选择很大程度上影响了实验结果，很难确定。 
 
-<div align=center>
-<img src="..\images\CFSFDP-图3.jpg" /> 
-<p>图3</p>  
-</div>
+!['图3'](\images\CFSFDP-图3.jpg)图3
 
 # 3  阈值讨论——Data Field
 
@@ -77,19 +67,13 @@ $$H=-\sum_{i=1}^n\frac{\phi_i}{Z}\ln{\frac{\phi_i}{Z}}$$
 
 &emsp;&emsp;Zhang等人提出CFSFDP算法不适用与一些特殊的数据集，例如图4所示的数据集合。这个数据集其实是由三个数据集群组成的，外围集群、内左集群和内右集群，但是Zhang等人用CFSFDP算法来聚类，尝试用不同的$d_c$值，都难以得到好的聚类结果，如图5所示。因此，他们研究了改进的策略。
 
-<div align=center>
-<img src="..\images\CFSFDP-图4.jpg" /> 
-<p>图4</p>  
-</div>
+!['图4'](\images\CFSFDP-图4.jpg)图4
 
-<div align=center>
-<img src="..\images\CFSFDP-图5.jpg" /> 
-<p>图5</p>  
-</div>
+!['图5'](\images\CFSFDP-图5.jpg)图5
 
 &emsp;&emsp;Zhang等人的改进策略是受Chameleon模型启发，该模型的基本思想如图6所示，包括三个步骤，一是将数据集合用k近邻图的方法，组成稀疏图，而是将稀疏图打散分成若干个小类，三是重新组合，得到最后的聚类结果。
 <div align=center>
-<img src="..\images\CFSFDP-图6.jpg" /> 
+<img src="..\images\CFSFDP-图6.jpg" /> 图6
 <p>图6</p>  
 </div>
 &emsp;&emsp;Chameleon算法定义了两个概念，相对互关联（Relative inner-connectivity）代表小类之间的连接区域强度的总和，相对紧密度（Relative closeness）则代表小类之间的连接区域强度的平均值。两个指标都有相应的公式，并进行标准化，然后结合两个指标来合并小类。
@@ -99,10 +83,7 @@ $$H=-\sum_{i=1}^n\frac{\phi_i}{Z}\ln{\frac{\phi_i}{Z}}$$
 
 &emsp;&emsp;Gao等人在文章中总结了CFSFDP算法在实际应用中遇到的问题：
 
-<div align=center>
-<img src="..\images\CFSFDP-图7.jpg" /> 
-<p>图7</p>  
-</div>
+!['图7'](\images\CFSFDP-图7.jpg)图7
 
 * （1）截断距离dc需要依靠先验经验确定；
 * （2）集群中心选择需要主观地从决策图中选择；
@@ -111,24 +92,15 @@ $$H=-\sum_{i=1}^n\frac{\phi_i}{Z}\ln{\frac{\phi_i}{Z}}$$
 
 &emsp;&emsp;Gao等人在文中提出了改进的模型ICFS，模型的具体步骤如图8所示，分成：预聚类、合并、拆分三个阶段。
 
-<div align=center>
-<img src="..\images\CFSFDP-图8.jpg" /> 
-<p>图8</p>  
-</div>
+!['图8'](\images\CFSFDP-图8.jpg)图8
 
 &emsp;&emsp;预聚类阶段，他们重新定义了$d_c$的确定公式、中心的选择方式和分配策略。其中，中心的选择方式是在原有算法利用$\delta$和$\rho$乘积的形式，将得到$\gamma$值从大到小排列，然后分别再乘以密度$\rho$，将新的决策图（decision graph）与原有的决策图对比，从新的$\gamma^\prime$值开始，第一次出现阶跃点（Bump point）的时候，即有$\gamma_k^\prime>\gamma_{k+1}^\prime\&\gamma_k^\prime>\gamma_{k-1}^\prime$，则将1到k所以数据点作为中心，这个过程如图9所示。
 
-<div align=center>
-<img src="..\images\CFSFDP-图9.jpg" /> 
-<p>图9</p>  
-</div>
+!['图9'](\images\CFSFDP-图9.jpg)图9
 
 &emsp;&emsp;分配策略改变原有的“从属最近的较高密度点”分配，而是“使非中心点优先从属于最近的相同密度点”，如图10所示。然而这种分配方式也不完全合理，在对于相同密度的A和B，先分配A或者先分配B得到的结果是不同的。
 
-<div align=center>
-<img src="..\images\CFSFDP-图10.jpg" /> 
-<p>图10</p>  
-</div>
+!['图10'](\images\CFSFDP-图10.jpg)图10
 
 &emsp;&emsp;完成预聚类之后，Gao等人也提出了类合并和拆分的策略，合并是根据最近邻图的方法，而拆分则是根据“同一类中不能同时含有两个阶跃点”的准则。
 

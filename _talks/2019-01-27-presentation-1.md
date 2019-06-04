@@ -27,9 +27,9 @@ location: "Washington DC, USA"
 
 # COMPOSITE CONTROL STRATEGIES 
 
-*  CCS-1
+*  CCS-1:
   In a situation with a low proportion of CAVs, the STA is similar to the general protocol. However, part of CAVs during red time can pass through the intersection by self-organization regardless of the signal status provided that their trajectories do not conflict those of the other vehicles. To avoid confusion in practical application, the privileged CAVs passing by selforganization are also supposed to obtain a permit from the control center, such as an extra marker light.
-* CCS-2
+* CCS-2:
   In regular phases, a green light exists for mixed flow from a pair of non-conflicting directions to pass through the intersection. In special phases, the CAVs from all directions can pass by self-organization. Considering the fairness for both vehicles, regular and special phases both exist in each period. Owing to the permission for CAVs in the special phase, the CAVs must to drive into the other lanes and bypass the HVs stopping ahead of them. Deploying a pre-signal within a certain distance before the stop line is important. In regular phases, the pre-signal controls all vehicles to pass or stop; in the special phase, the HVs must queue before the pre-signal, whereas CAVs from all entrances can bypass the queue of HVs and go through the intersection by self-organization. 
 
 # FINDINGS

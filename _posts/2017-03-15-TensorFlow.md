@@ -86,10 +86,10 @@ AutoEncoder为了有效提取特征信息，可以加入限制：控制隐层节
 2007年，Hinton在Science上发表了关于Deep Belief Network（DBN，深度置信网络）有效解决“梯度弥散”问题<br>
 DBN包含三个步骤：AutoEncoder的无监督训练；提取特征并初始化权重；用标注数据进行监督训练。<br>
 
-!['AutoEncoder'](../images/tensorflow-AutoEncoder.jpg)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**AutoEncoder模型结构**
-!['Images recontruction'](../images/tensorflow-Images-recontruction.jpg)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**手写数字图像重构训练数据和输出结果*
+!['AutoEncoder'](../images/tensorflow-AutoEncoder.jpg)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**AutoEncoder模型结构**<br>
+!['Images recontruction'](../images/tensorflow-Images-recontruction.jpg)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**手写数字图像重构训练数据和输出结果*<br>
 
 3. <font size=4>**Multi-layer Perceptron**</font>
 
@@ -115,11 +115,13 @@ CNN有更优秀的网络设计，即卷积网络对图像特征的提取和抽�
 CNN的发展现在有两个方向：网络结构优化和网络深度增加<br>
 在MNIST数据分类实验中，CNN精度在99.2%左右<br>
 
-!['全连接（左）与局部连接（右）'](../images/tensorflow-全连接（左）与局部连接（右）.jpg)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**全连接（左）与局部连接（右）**
+!['全连接（左）与局部连接（右）'](../images/tensorflow-全连接（左）与局部连接（右）.jpg)<br>
 
-!['LeNet5结构示意图'](../images/tensorflow-LeNet5结构示意图.jpg)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**LeNet5结构示意图**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**全连接（左）与局部连接（右）**<br>
+
+!['LeNet5结构示意图'](../images/tensorflow-LeNet5结构示意图.jpg)<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**LeNet5结构示意图**<br>
 
 
 5. <font size=4>**TensorBoard**</font>
@@ -129,6 +131,7 @@ TensorBoard是将计算过程中的数据汇总记录在日志文件中，然后
 
 !['TensorBoard界面'](../images/tensorflow-TensorBoard界面.jpg)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**TensorBoard界面**<br>
+
 !['计算图'](../images/tensorflow-计算图.jpg) <br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**计算图** <br>
 

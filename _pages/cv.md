@@ -46,20 +46,30 @@ redirect_from:
  
 # <a name="Publications"></a>Publications
 ======
-  <ul>{% for post in site.publications reversed %} 
-    {% include archive-single.html %} 
-  {% endfor %}</ul>
-  <ul>{% for post in site.conferencepapers reversed %} 
-    {% include archive-single.html %} 
+*Journal Papers*
+------
+  <ul>{% for post in site.journalpapers reversed %}
+    {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+ 
+*Conference Papers*
+------
+  <ul>{% for post in site.conferencepapers reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+*Patents*
+------
+  <ul>{% for post in site.patents reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
 # <a name="Talks"></a>Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+  {% endfor %}</ul>  
   
 # <a name="Serviceandleadership"></a>Service and leadership
 ======

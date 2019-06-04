@@ -49,20 +49,20 @@ redirect_from:
 *Journal Papers*
 ------
   <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
+    {% include my-archive-single-cv.html %}
   {% endfor %}</ul>
   
  
 *Conference Papers*
 ------
   <ul>{% for post in site.conferencepapers reversed %}
-    {% include archive-single-cv.html %}
+    {% include my-archive-single-cv.html %}
   {% endfor %}</ul>
   
 *Patents*
 ------
   <ul>{% for post in site.patents reversed %}
-    {% include archive-single-cv.html %}
+    {% include my-archive-single-cv.html %}
   {% endfor %}</ul>
   
 # <a name="Talks"></a>Talks

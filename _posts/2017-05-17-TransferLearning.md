@@ -116,10 +116,10 @@ mathjax: true
 ![Drivers of ML success in industry ](../images/TransferLearning-Drivers-of-ML-success-in-industry.jpg)
 
 # 参考文献
-[^1]:[Pan S J, Yang Q. A Survey on Transfer Learning. IEEE Transactions on Knowledge & Data Engineering, 2010, 22(10):1345-1359.](http://www.cogsys.wiai.uni-bamberg.de/teaching/ss12/sem_m2/ASurveyonTransferLearning.pdf)
-[^2]:[W Dai, Q Yang, GR Xue, Y Yu. Boosting for transfer learning. International Conference on Machine Learning, 2007, 238 (6) :193-2000.](http://kowon.dongseo.ac.kr/~dkkang/ML2008Spring/Dai2007.pdf)
-[^3]:[Yao Y, Doretto G. Boosting for transfer learning with multiple sources. IEEE Conference on CVPR, 2010:1855-1862.](http://vision.csee.wvu.edu/~doretto/publications/yaoD10cvpr.pdf)
-[^4]:[Quattoni A, Collins M, Darrell T. Transfer Learning for Image Classification with Sparse Prototype Representations. 2008:1-8.](http://www.cs.columbia.edu/~mcollins/papers/CVPR_2008.pdf)
-[^5]:[Pan S J, Kwok J T, Yang Q. Transfer learning via dimensionality reduction. AAAI Conference on Artificial Intelligence, 2008:677-682.](http://www.cse.ust.hk/~qyang/Docs/2008/AAAIsinnoA.pdf)
-[^6]:[Long M, Cao Y, Wang J, et al. Learning Transferable Features with Deep Adaptation Networks. Computer Science, 2015:97-105.](http://proceedings.mlr.press/v37/long15.pdf)
-[^7]:[Dai W, Yang Q, Xue G R, et al. Self-taught clustering. International Conference. DBLP, 2008:200-207.](http://machinelearning.org/archive/icml2008/papers/432.pdf)
+* [^1]:[Pan S J, Yang Q. A Survey on Transfer Learning. IEEE Transactions on Knowledge & Data Engineering, 2010, 22(10):1345-1359.](http://www.cogsys.wiai.uni-bamberg.de/teaching/ss12/sem_m2/ASurveyonTransferLearning.pdf)
+* [^2]:[W Dai, Q Yang, GR Xue, Y Yu. Boosting for transfer learning. International Conference on Machine Learning, 2007, 238 (6) :193-2000.](http://kowon.dongseo.ac.kr/~dkkang/ML2008Spring/Dai2007.pdf)
+* [^3]:[Yao Y, Doretto G. Boosting for transfer learning with multiple sources. IEEE Conference on CVPR, 2010:1855-1862.](http://vision.csee.wvu.edu/~doretto/publications/yaoD10cvpr.pdf)
+* [^4]:[Quattoni A, Collins M, Darrell T. Transfer Learning for Image Classification with Sparse Prototype Representations. 2008:1-8.](http://www.cs.columbia.edu/~mcollins/papers/CVPR_2008.pdf)
+* [^5]:[Pan S J, Kwok J T, Yang Q. Transfer learning via dimensionality reduction. AAAI Conference on Artificial Intelligence, 2008:677-682.](http://www.cse.ust.hk/~qyang/Docs/2008/AAAIsinnoA.pdf)
+* [^6]:[Long M, Cao Y, Wang J, et al. Learning Transferable Features with Deep Adaptation Networks. Computer Science, 2015:97-105.](http://proceedings.mlr.press/v37/long15.pdf)
+* [^7]:[Dai W, Yang Q, Xue G R, et al. Self-taught clustering. International Conference. DBLP, 2008:200-207.](http://machinelearning.org/archive/icml2008/papers/432.pdf)

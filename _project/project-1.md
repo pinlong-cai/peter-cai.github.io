@@ -4,7 +4,7 @@ collection: Project
 type: ""
 permalink: /project/project-1
 venue: "国家自然科学基金重点项目"
-date: 2015-01-01
+date: 2017-09-01
 location: "北京, 中国"
 ---
 

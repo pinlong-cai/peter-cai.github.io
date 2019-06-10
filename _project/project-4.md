@@ -2,7 +2,7 @@
 title: "盾安集团风力发电机故障检测"
 collection: Project
 type: ""
-permalink: /teaching/project-4
+permalink: /project/project-4
 venue: "企业横向项目"
 date: 2017-03-01
 location: "晋江, 中国"

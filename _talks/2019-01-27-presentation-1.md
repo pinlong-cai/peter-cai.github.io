@@ -8,8 +8,6 @@ date: 2019-01-27
 location: "Washington DC, USA"
 ---
 
-[More information here](http://exampleurl.com)
-
 # BACKGROUND
 * Reliable communication networks and internal intelligent control units ensure that connected autonomous vehicles (CAVs) can perform normal motion functions without human control.
 * The availability of CAVs to the common people will increase their popularity because they can liberate humans from highly intensive operations.

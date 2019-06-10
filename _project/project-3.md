@@ -2,7 +2,7 @@
 title: "城市客运网络安全风险主动防控技术研究"
 collection: Project
 type: ""
-permalink: /teaching/project-3
+permalink: /project/project-3
 venue: "交通运输部建设科技项目"
 date: 2015-01-01
 location: "北京, 中国"

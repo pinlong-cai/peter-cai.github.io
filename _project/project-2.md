@@ -2,7 +2,7 @@
 title: "大城市综合交通系统的可靠性与应急策略"
 collection: Project
 type: ""
-permalink: /teaching/project-2
+permalink: /project/project-2
 venue: "国家973项目"
 date: 2012-01-01
 location: "北京, 中国"

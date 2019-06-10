@@ -2,7 +2,7 @@
 title: "宁德新能源&福建中科兰剑智能AGV调度系统"
 collection: Project
 type: ""
-permalink: /teaching/project-5
+permalink: /project/project-5
 venue: "企业横向项目"
 date: 2016-09-01
 location: "晋江, 中国"

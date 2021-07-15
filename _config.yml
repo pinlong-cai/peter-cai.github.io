@@ -11,9 +11,9 @@ title                    : "Pinlong Cai"
 title_separator          : "-"
 name                     : &name "Pinlong Cai"
 description              : &description "Ph.D student at Beijing Key Laboratory for Cooperative Vehicle Infrastructure Systems and Safety Control, Beihang University, Beijing, P. R. China."
-url                      : https://peter-cai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://pinlong-cai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "peter-cai.github.io"
+repository               : "pinlong-cai.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160

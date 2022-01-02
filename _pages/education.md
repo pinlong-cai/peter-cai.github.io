@@ -34,7 +34,7 @@ Computer Skills
 + Professional software: Q-Paramics, VISSIM, AutoCAD, TransCAD, Solidworks, etc.
 + Microsoft Offices, Photoshop, Corel VideoStudio, Latex word processor， etc.
 
-Jan 2017 - present
+Sep 2017 - Jun 2020
 ======
 **Ph.D** student, *Traffic Information Engineering & Control*
 

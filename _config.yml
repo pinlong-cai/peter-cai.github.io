@@ -10,7 +10,7 @@ locale                   : "China"
 title                    : "Pinlong Cai"
 title_separator          : "-"
 name                     : &name "Pinlong Cai"
-description              : &description "Ph.D student at Beijing Key Laboratory for Cooperative Vehicle Infrastructure Systems and Safety Control, Beihang University, Beijing, P. R. China."
+description              : &description
 url                      : https://pinlong-cai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pinlong-cai.github.io"

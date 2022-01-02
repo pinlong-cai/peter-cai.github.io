@@ -13,7 +13,7 @@ About me
 
 I received B.S., M.S. and Ph.D. degrees in traffic information engineering and control from Beihang University, Beijing, China. From 2016 to 2017, he was a Research
 Assistant with the Quanzhou Institute of Equipment Manufacturing, Haixi Institutes, Chinese Academy of Sciences. From 2020 to 2021, I was a Standard & Strategy Engineer in
-ZTE Corporation. He is currently a Research Scientist in Shanghai AI Laboratory. His research interests include data modelling, decision intelligence and cooperative vehicle
+ZTE Corporation. Now, I am currently a Research Scientist in Shanghai AI Laboratory. My research interests include data modelling, decision intelligence and cooperative vehicle
 infrastructure system (CVIS).
 
 
@@ -26,7 +26,8 @@ Contact info
 </address> 
 
 
-**Email**: caipl@foxmail.com
+**Email**: caipinlong@pjlab.org.cn <br />
+           caipl@foxmail.com
 
 
 

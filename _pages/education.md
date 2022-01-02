@@ -9,17 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
----
-permalink: /education/
-title: "My Education"
-author_profile: true
-redirect_from: 
-  - /md/
-  - /markdown.html
----
-
-{% include base_path %}
-
 + B.S. in Traffic and Transportation, Beihang University, 2013
 + M.S. in Traffic Information Engineering and Control, Beihang University, 2016
 + Ph.D in Traffic Information Engineering and Control, Beihang University, 2020

@@ -20,7 +20,7 @@ redirect_from:
 
 * B.S. in Traffic and Transportation, Beihang University, 2013
 * M.S. in Traffic Information Engineering and Control, Beihang University, 2016
-* Ph.D in Traffic Information Engineering and Control, Beihang University, 2020 (expected)
+* Ph.D in Traffic Information Engineering and Control, Beihang University, 2020 
 
 # <a name="Workexperience"></a>Work Experiences
 

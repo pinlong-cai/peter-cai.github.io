@@ -1,17 +1,19 @@
 ---
-title: "大城市综合交通系统的可靠性与应急策略"
+title: "Reliability and emergency strategy of urban comprehensive transportation system"
 collection: Project
 type: ""
 permalink: /project/project-2
-venue: "国家973项目"
+venue: " National Basic Research Program of China"
 date: 2012-01-01
-location: "北京, 中国"
+location: "Beijing, China"
 ---
 
-交通预测/数据可视化
+Traffic forecast / data visualization
 ======
 
-* 设计道路通行可靠性指标，并完成旅行时间可靠性计算模型
-* 建立浮动车数据库，并利用Ｋ近邻预测模型完成城市道路的短时交通预测
-* 建立项目仿真平台（网站），实现交互式信息传递来展示项目主要研究成果
+* Design the road traffic reliability index and complete the travel time reliability calculation model.
+
+* The floating vehicle database is established, and the k-nearest neighbor prediction model is used to complete the short-term traffic prediction of urban roads.
+
+* Establish a project simulation platform (website) to realize interactive information transmission to display the main research results of the project.
 

@@ -1,17 +1,17 @@
 ---
-title: "城市客运网络安全风险主动防控技术研究"
+title: "Research on active prevention and control technology of urban passenger transport network security risk"
 collection: Project
 type: ""
 permalink: /project/project-3
-venue: "交通运输部建设科技项目"
+venue: "Ministry of transport construction science and technology project"
 date: 2015-01-01
-location: "北京, 中国"
+location: "Beijing, China"
 ---
 
 公交客流预测/异常识别
 ======
 
-* 设计客流异常评价指标，识别客运网络客流异常状态
-* 建立短时客流预测模型，预测客流变化规律
+* Design the abnormal passenger flow evaluation index to identify the abnormal passenger flow state of passenger transport network.
 
+* Establish a short-term passenger flow prediction model to predict the change law of passenger flow.
 

@@ -1,14 +1,14 @@
 ---
-title: "智能车联网基础理论与共性关键技术研究"
+title: "Research on basic theory and common key technologies of intelligent vehicle networking"
 collection: Project
 type: ""
 permalink: /project/project-1
-venue: "国家自然科学基金重点项目"
+venue: "Key projects of National Natural Science Foundation of China"
 date: 2017-09-01
-location: "北京, 中国"
+location: "Beijing, China"
 ---
 
-智能网联汽车通行策略研究
+Research on traffic strategy of intelligent networked vehicles
 ==================
 
-针对网联混行车辆的运行特点，以多目标优化、最优控制、机器学习、随机服务系统、计算机仿真等理论为基础，面向大规模智能网联汽车在路网中的协同自主交通自主的挑战，从交叉口、路段、路网三个层面依次展开研究，通过理论分析和数值仿真，分析不同场景下的交叉口冲突类型与消解方法，建立路段上的车辆轨迹优化控制模型，实现服务于异构决策行为的网联混行车辆的路线规划。
+According to the operation characteristics of networked hybrid vehicles, based on the theories of multi-objective optimization, optimal control, machine learning, random service system and computer simulation, and facing the challenge of cooperative and autonomous transportation autonomy of large-scale intelligent networked vehicles in the road network, the research is carried out successively from the three levels of intersection, road section and road network. Through theoretical analysis and numerical simulation, The intersection conflict types and resolution methods under different scenarios are analyzed, and the vehicle trajectory optimization control model on the road section is established to realize the route planning of networked hybrid vehicles serving heterogeneous decision-making behavior.

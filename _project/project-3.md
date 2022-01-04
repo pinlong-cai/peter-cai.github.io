@@ -8,7 +8,7 @@ date: 2015-01-01
 location: "Beijing, China"
 ---
 
-公交客流预测/异常识别
+Bus passenger flow forecast / anomaly identification
 ======
 
 * Design the abnormal passenger flow evaluation index to identify the abnormal passenger flow state of passenger transport network.

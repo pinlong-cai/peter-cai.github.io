@@ -1,14 +1,14 @@
 ---
-title: "宁德新能源&福建中科兰剑智能AGV调度系统"
+title: "Intelligent AGV dispatching system"
 collection: Project
 type: ""
 permalink: /project/project-5
-venue: "企业横向项目"
+venue: "Enterprise project"
 date: 2016-09-01
-location: "晋江, 中国"
+location: "Jinjiang, China"
 ---
 
-数据处理&算法应用
+Data processing & Algorithm Application
 ======
 
-研发具有全局、实时多目标优化的智能调度系统，实现理论创新，并成功应用于生产事件，提高 AGV 利用率、空间利用率、调度系统的智能化水平及其竞争力。
+Develop an intelligent scheduling system with global, real-time and multi-objective optimization, realize theoretical innovation, and successfully apply it to production events to improve AGV utilization, space utilization, intelligent level and competitiveness of scheduling system.
